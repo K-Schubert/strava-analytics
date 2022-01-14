@@ -35,6 +35,11 @@ Based on the Ride Type Classification, a rider type profile is determined that m
 ## Cumulative Time Spent In Zone
 Detailed analysis is performed to assess the physiological impact of training on the rider.
 
+<p align="center">
+  <img width="350" height="350" src="https://github.com/K-Schubert/strava-analytics/blob/master/media/cum_time_in_zone.png">
+  <img width="350" height="350" src="https://github.com/K-Schubert/strava-analytics/blob/master/media/ride_time_in_zone.png">
+</p>
+
 ## Fatigue Analysis
 Fatigue is assessed through volume, power and heartrate analysis among other metrics.
 
