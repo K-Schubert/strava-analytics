@@ -25,7 +25,7 @@ Having accepted the App terms, the user accepts to share his data for analysis. 
 Activities for a selected timeframe are analyzed to determine different rider factors and how the rider has been training.
 
 # Ride Type Classification
-Every ride is analyzed and training impact is determined individually to assess the impact of training during a block.
+Every ride is analyzed and training impact is determined to assess rider strengths and weaknesses.
 
 # Rider Type Classification
 Based on the Ride Type Classification, a rider type profile is determined that most suits the rider.
