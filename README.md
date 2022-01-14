@@ -34,7 +34,7 @@ Based on the Ride Type Classification, a rider type profile is determined that m
 Detailed analysis is performed to assess the physiological impact of training on the rider.
 
 # Fatigue Analysis
-Fatigue is assessed through volume, power and heartrate analysis.
+Fatigue is assessed through volume, power and heartrate analysis among other metrics.
 
 # Training Progression
 Different performance markers are analysed to determine whether statistically significant rider progression through key performance indicators is achieved through training.
