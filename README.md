@@ -18,8 +18,8 @@ Below are a few features that will be implemented.
 - [ ] ML Personalized Workouts Based On Rider Type
 - [ ] ML Personalized Workouts Based On Race Objectives
 
-# Strava OAuth Login
-Having accepted the App terms, the user accepts to share his data for analysis. The user's data is retrieved through the Strava API.
+# Strava OAuth Login And Data Retrieval
+Having accepted the App terms, the user accepts to share his data for analysis. The user's data is retrieved through the Strava API. Data extraction is done fully the first time to limit API calls. Then only the most recent data is retrieved in subsequent usage.
 
 # Analytics Features
 
