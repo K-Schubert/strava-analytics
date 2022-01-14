@@ -39,6 +39,9 @@ Detailed analysis is performed to assess the physiological impact of training on
   <img width="350" height="200" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/cum_time_in_zone.png">
   <img width="350" height="200" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/ride_time_in_zone.png">
 </p>
+<p align="center">
+  <img width="350" height="200" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/cum_time_in_zone_line.png">
+</p>
 
 ## Fatigue Analysis
 Fatigue is assessed through volume, power and heartrate analysis among other metrics.
