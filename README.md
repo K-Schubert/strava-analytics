@@ -37,7 +37,7 @@ Detailed analysis is performed to assess the physiological impact of training on
 
 <p align="center">
   <img width="350" height="200" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/cum_time_in_zone.png">
-  <img width="350" height="350" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/ride_time_in_zone.png">
+  <img width="350" height="200" src="https://github.com/K-Schubert/strava-analytics/blob/main/media/ride_time_in_zone.png">
 </p>
 
 ## Fatigue Analysis
