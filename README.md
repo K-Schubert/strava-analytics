@@ -41,21 +41,21 @@ Fatigue is assessed through volume, power and heartrate analysis among other met
 ## Training Progression
 Different performance markers are analysed to determine whether statistically significant rider progression through key performance indicators is achieved through training.
 
-3# Training Load Analysis
+# Training Load Analysis
 Training Load is assessed through volume, power and heartrate analysis.
 
 ## Individual Activity Analysis
-Analysis of every activity is performed to derive in depth insights about the rider's training.
+Analysis of every activity is performed to derive in depth insights about the rider's training. \
 *HR/PWR drift*
 
 # ML Workout Prediction For Race Preparation
 Based on user input, optimal workout recommendations are generated with Machine Learning to prepare races and target specific energy systems and physiological adaptations.
 
 ## ML Personalized Workouts Based On Rider Type
-Workout recommendation are generated with Machine Learning based on the rider type assessment. 
+Workout recommendation are generated with Machine Learning based on the rider type assessment. \
 *Say the rider is classified as a rouleur, recommendations will focus on improving rider qualities or weaknesses.*
 
 ## ML Personalized Workouts Based On Race Objectives
-Workout recommendations are generated with Machine Learning based on race characteristics, profiles, durations, importance, etc.
+Workout recommendations are generated with Machine Learning based on race characteristics, profiles, durations, importance, etc. \
 *Say the rider has a 200km race, recommendations will perhaps focus on improving the rider's endurance and aerobic capacity while adding workouts to improve his explosiveness at the end of a long race.*
 
