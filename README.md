@@ -1,7 +1,7 @@
 # strava-analytics
-This is a personal project to improve training for cyclists using historical training data. The end goal is to provide a strava app and graphical interface for users to harness the power of their data to make decisions on their training.
+This is a personal project to improve training for cyclists using historical training data. The end goal is to provide a strava app and graphical interface for users to harness the power of their data and make decisions on their training.
 
-The users will be provided with different data visualizations to help with their training as well as predictive ML models to optimize certain aspects of their training to achieve their goals.
+The users will be provided with different data visualizations to help with their workout planning as well as predictive ML models to optimize certain aspects of their training to achieve their goals.
 
 Below are a few features that will be implemented.
 
