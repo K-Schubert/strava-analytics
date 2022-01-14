@@ -40,7 +40,7 @@ Fatigue is assessed through volume, power and heartrate analysis among other met
 Different performance markers are analysed to determine whether statistically significant rider progression through key performance indicators is achieved through training.
 
 # Training Load Analysis
-Fatigue is assessed through volume, power and heartrate analysis.
+Training Load is assessed through volume, power and heartrate analysis.
 
 # Individual Activity Analysis
 Analysis of every activity is performed to derive in depth insights about the rider's training.
