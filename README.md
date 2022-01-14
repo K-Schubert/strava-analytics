@@ -21,28 +21,30 @@ Below are a few features that will be implemented.
 # Strava OAuth Login
 Having accepted the App terms, the user accepts to share his data for analysis. The user's data is retrieved through the Strava API.
 
-# Historical Activity Analysis
+# Analytics Features
+
+## Historical Activity Analysis
 Activities for a selected timeframe are analyzed to determine different rider factors and how the rider has been training.
 
-# Ride Type Classification
+## Ride Type Classification
 Every ride is analyzed and training impact is determined to assess rider strengths and weaknesses.
 
-# Rider Type Classification
+## Rider Type Classification
 Based on the Ride Type Classification, a rider type profile is determined that most suits the rider.
 
-# Cumulative Time Spent In Zone
+## Cumulative Time Spent In Zone
 Detailed analysis is performed to assess the physiological impact of training on the rider.
 
-# Fatigue Analysis
+## Fatigue Analysis
 Fatigue is assessed through volume, power and heartrate analysis among other metrics.
 
-# Training Progression
+## Training Progression
 Different performance markers are analysed to determine whether statistically significant rider progression through key performance indicators is achieved through training.
 
-# Training Load Analysis
+3# Training Load Analysis
 Training Load is assessed through volume, power and heartrate analysis.
 
-# Individual Activity Analysis
+## Individual Activity Analysis
 Analysis of every activity is performed to derive in depth insights about the rider's training.
 *HR/PWR drift*
 
