@@ -1,0 +1,2206 @@
+{
+    "resource_state": 3,
+    "athlete": {
+        "id": 2374178,
+        "resource_state": 1
+    },
+    "name": "Zwift - Watopia",
+    "distance": 68546.5,
+    "moving_time": 7201,
+    "elapsed_time": 7593,
+    "total_elevation_gain": 301.0,
+    "type": "VirtualRide",
+    "id": 6425278919,
+    "external_id": "zwift-activity-977405670431129616.fit",
+    "upload_id": 6830858160,
+    "start_date": "2021-12-25T09:28:26Z",
+    "start_date_local": "2021-12-25T10:28:26Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 3600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": "Suisse",
+    "achievement_count": 6,
+    "kudos_count": 5,
+    "comment_count": 0,
+    "athlete_count": 2,
+    "photo_count": 0,
+    "map": {
+        "id": "a6425278919",
+        "polyline": "jy_fAkvbz^Yc@m@_@e@MoAMWI[YYo@w@iC[uAUy@E_@Aa@D_@p@sCBm@C]I[Se@w@mAYk@EW@WBKLSROTKd@@`ALZALEHIDKF]FkCB_@DOTWJG\\I^?j@Fv@R~@`@|@f@RRJX?^El@@NFLJFNDl@DLBXPHL@NCNu@tAGNCP?NL`@HLZTPDb@Dr@@`Fc@\\Qr@o@`@i@Xk@DQ?QEOO_@i@{@Ou@?e@FOHOZWjAq@JKR[Pq@Dc@?s@Gq@Mq@Y}@c@kA_@w@g@q@w@w@}@o@yA}@QYCM?o@Fm@ZyARm@R]VY^QfB_@NGv@q@R]La@Fe@Bw@Ew@Qs@Q]U[kB_BWYQ]AQDQHMZYx@m@V[BS?QUu@AQ?SHc@x@yBrDwI|AcE\\wAFeABu@Es@I_@Q]YW]Q_@OaD_A_@Qg@e@_@k@Q_@Ma@Mu@?e@BQRs@lAoCpByDj@oAl@cBNgADQJMJK^Q^Kr@M`@C`@DxAn@`@@`@E\\OXWP]n@{AR[LI`@GxAD`@EbAYNKXYXo@Nu@Dw@Ee@Ma@S]qBiCO]AQL]\\g@f@]\\M^E^@\\LZVx@hApBnD~@xA^^RHTFTARIb@[Z_@Ng@TqATw@HOLOPER@t@Pp@ZXZHNJb@@PKnB@d@FRJL\\TtAj@LJHPHd@ARCPIPKLQFgAXa@PY\\GNKd@CjAFvFAlAMpB{@vJKlB?b@Jb@\\n@d@h@|AxAT\\N^Ft@HNLHb@D~A@fA^PBf@?b@Gd@IdA[`@QbA[`E_APAR@NF^RJNHNL`@VnB^dHHdEEvAG`@GNGLWVy@f@KJQ\\E`@AtAJxBNtALp@J^R\\VTNH~@Vb@@rAMP@NFv@b@NDvBL^H\\NbAp@\\d@HZJxAHZf@j@XNN@NCXO\\i@b@qArAuEXu@T_@NMNIRER?b@Hp@^j@b@JLFd@DnAFPPLRBR@dBEf@Db@JNHZZj@`AVt@Jb@Hv@Dt@?x@Gb@Sn@UXWTe@XqBbA{@f@kCnAs@d@UVM\\Ij@CbAGTEHGFUJy@PULm@j@]f@Mb@?d@Hf@d@lALXTRt@LJFFJDZBh@CZIZUPm@b@gB|AQHKBSCICKQMe@KOWO[Gg@CQ?QHMPAHDTJP\\X@HQl@ALDv@GTOPKD[Hk@?kBKa@FULQVM^An@ALEJUP}@^OLINENIp@ELSTMHMDQ@OCMGOWC_@DOHOr@}@FU?U_@iA@QJKp@YLODQCSEO]i@i@_@q@[]KOA]B_@J]P]VILER?RRrA?TEROLQDQAQIKMUa@]u@Qe@Mk@AUBWFSr@oAFUBWAo@KcAEUUg@CU?aA@UFQRERDp@T^H^?ZAZGJEHKTa@\\]JWC[Qs@]u@[c@US_@EM@_@FmAd@OHSZMJcARQ?SCIMAc@Do@\\mC?YEYQUKEyAM_@AOB]JYTgAzAa@`@w@\\eAVqALaA@m@MiBq@_@GUDQJON{@~AYV_@JsAF_@FYP{@p@UFa@DIDOPEHAL@JHHJDVD~@Dd@F`@LbBv@TFVDL@VG^Sx@s@VGd@Ab@Dj@NRLFFJR?JAJEHSPa@PWBq@AWDa@LiAf@WFWBm@GsAYa@Cc@@UDIDGHGV@LDJTJb@DnAD^HNLb@v@RHVAv@OVCd@F~@V\\B\\EtAa@\\?^J\\PZVX^Td@h@hBLRb@b@JRBXCXOp@KVQPk@^OTo@~BKVQRUPULs@RmATqAJ[?YCUQg@iASQiAa@QUYo@i@gBMUWKWDa@f@SJWAQMKUs@}BISMOSGUBQLGR?z@GLOFOCq@WUAQDk@b@M@OGi@e@QGSCSBMFKLENBNDNd@j@vAxAFLAPILMJOBME[OMCi@?OEWQY[e@s@AQBQP_@?QCMIMMGeBc@_@EuAAc@De@Fe@LQJKRARJRPJVBn@GtA[PFDPCPOLOJoAd@aATQNATHTTHfALVHTHRNNTHVBTAVCRa@z@AVDTJTTJjANVJRPNRFXAXIVUNi@Tm@p@SJ_AJOHMLOd@ERAv@ANGJKHODOCMKYu@Wc@BUVi@BW@q@AWGWKU_@c@a@SQEe@Aa@Fa@JOFMJGRAf@IR]ZGPCd@BTHPn@b@DNMx@FRp@t@FL?NGLIHk@\\[XOb@UhBIPSBOOIQ]_@KQEUAUDUJQr@}@FO?QGOMIOAa@J]RMLa@p@SBQKCUNoAASGOMMOCOBuAx@MLGNId@IPMLMJSDQCs@WQCQD[RQDa@Cq@QOGYUS]CO@a@RaAd@kAPaAL_B?]E_@I[[w@]e@UWMI[MqAMm@OKISYWk@w@mCk@cCGa@Aa@Fc@n@uCBa@C_@I_@M[uA}BG[@]DMPUVOLC\\?hAN^CJIHKH_@F{CJa@TYNGNE`@Ap@Fl@NjAd@v@b@VVFLB`@CdAFNNFNDp@DZNHJDN?NMZo@fAENAP@PL^XVNFt@Jt@A|Ee@\\Qr@q@`@i@R_@DQ@QCQOa@m@}@Ke@Ce@BQFSHM^W~@g@Z[HORy@Bg@?i@I{@[oAa@kASc@a@u@i@o@}AsA_@YeAm@MOGSAi@H}@XqANe@Ve@LQb@Yh@O~@Sf@U`@]LQRg@JaA@m@Em@Mi@GSYc@oBgB]]KQGS@UFQNOnAaALOFQ@UUy@ASDi@^kA`FqLtAuDLe@Hg@F{@@}@Cg@Kg@Sa@OM_@Ue@QsBi@u@Wa@U[]Y_@Sa@Ww@I}@Dg@Vw@bA}B`CmEZu@p@mBPmAFSJM^W`@Ov@Md@Cb@DrAn@b@Bd@G^OZ[|@uBV]PGPCPAjABd@CdA]\\UJMRa@Pu@Dw@Cu@Ma@S]mB_CQ[EO?ODMXg@b@_@f@U^I^?^JXTXZl@|@hCtEXb@^^PLTFT?TEb@Y\\a@Ne@RsAVw@HQLOPGR?RBb@Lt@^X\\HPJd@@RKbB@f@FPJNLJhBx@LLHPDP?RARERINMLSFw@Re@P]ZOd@Gh@C|@FbFA|@_@`Fg@fGOnCBf@Xt@V`@hClCR`@Dx@HPNHf@FnA?PBhA^d@Bd@Ed@KhF}ApCm@PARBNF\\TJNNb@Nv@XhDLfCJnD?tBGx@Md@YZ_Al@W`@Gd@Cx@HtBRtBThAPb@LL\\Vr@Vf@DjAMR?P@pAl@d@F~AHr@V~@j@XZHNDPLvAJ`@l@p@NHNBPANGLKT]Xs@pAkEh@}ATc@LOPKRER?R@d@N`@Tj@d@HNDRDnABTHNPHTBhBEh@Bf@JPJZ\\bAjBNLRFRBh@Af@Ef@K`@U^YTa@Je@H}@Ce@ISW_@]Y_@Uc@OSCe@@SDu@X[Vq@tAMNOHQBS?y@KSA_BFSCOGIQCQCiAK_@KOg@a@o@]a@Kg@?QFOHMLU\\[r@Ur@eAnD]bAQ\\KLMHQDOCOIYYU[Ie@ImAEQIQ]]cAo@e@SSEyBMSGs@a@SGg@A}@JS@SCg@Mc@UYa@GQS{@K{@MeBCqA@}@Jg@HONMn@c@Z]Pc@H{@?{@CwBWaGMaBQaBKe@Oc@[[_@QSEg@BeDv@gEnAe@Je@Dg@EgA]SC_BAQCMMIw@Oc@c@k@mBmBW_@[s@?g@JwB~@eKJaBBuBG{ED{@Hc@HQLM^UvA_@NMHMLc@?SGc@U_@a@ScAa@]YGOCg@LsBCSMc@W_@_@Wc@Qu@OSAQDMLS`@Uv@[bBINk@j@QJSBUAQEQK[[m@aA_CeEi@u@a@e@[Q_@Ga@Ba@J]Pg@d@U`@EP?RPd@V`@tA`BXd@FTFj@GbAKh@Yl@QPi@VC@CGc@N_@FiBAWDIDQPOTo@`BOTSRWL[Dk@AYKs@][IOAm@Dm@Jk@RYNKJMZW|Ag@xAg@hA_CnE}@rBSj@Gn@@^F^Vz@NXZf@`@`@h@Xl@TbCn@l@XXVN\\H`@B`@?p@GbAKn@Qn@kB|E_EjJg@xAG^?NB^Rj@@PENUVmA`ASXCN?NDNPZ`@b@`BvARVP\\Nl@Dp@Ap@In@I\\QZa@^i@XyAZ[Jc@\\Yd@Wv@UfAK|@@p@L^VTtAv@~@v@p@p@f@t@v@jB^pANbA@bAC`@I\\M\\ILe@^eAj@MJM\\C`@B`@H^NZb@r@J\\E\\MX[d@_@`@a@`@[Nm@B}CXo@@m@C]IWSOYCM@]Te@n@iAj@mA\\e@d@[z@c@`@I|AKb@IbCgA\\SV[L_@Ls@?eACc@G_@_@sAw@mB]m@m@s@yAmAaBcAQYCOAa@JaAXmARo@\\k@LK^QhBe@^Qh@e@JQNa@Jw@Bg@Ey@Qw@S_@U[}AuAe@g@IMGQ@QFOHMpAcAT[DQ?QSq@CQ@c@BQp@qBzEaLdAsCPq@Fc@HgA@u@Cc@Ic@Q_@YYm@[sDeAk@[c@c@e@y@W}@Iq@?QFa@Ro@dA}BxBgEb@_Al@aBRuADQHMLK^Q^Kr@M`@Cb@FnAj@b@Db@C^QZWR]n@_BT[NGNEb@?dAD`@G`AYZUJKXm@Nq@Ds@Cq@K]Yi@mB}BOYCM?MBMLYZ_@l@a@f@O\\AZFZNTV~@rApBpDn@bAX\\b@TPBTAPG^WZ[Pa@RiAXcAN]JKNEP?`@F^Nl@\\VXFNH`@@PKjB@b@DNHNXRlAf@ZRN^D`@G`@INKJ_@Ns@P_@N[XILKb@Cb@Ct@HfFAvAS~C{@fJIdBD^Vl@RZ`CdCTXN^Dr@HNNFb@Bt@?b@BrA`@d@Bb@Er@MhEsAvCu@b@APB^PVXN^J`@RjBX~EL`FA~AKt@GPWZiAv@KNGNGd@Ax@@v@NdCZlBP`@HLLJZTp@R`@DvAOP?`@Jj@ZNF`@DzAHPB`@NjAv@VXHNF^D`AF^FL`@b@XRPBNAZQ\\k@j@aBjA{D^aAT_@LKNGRCb@B`@Lj@\\f@b@FNBPFzADNLJd@FlBGb@D`@HNFXV^j@h@jALJLF`@D`@?p@G^Ih@YVWRYPo@Fa@@a@Ea@EMQ[e@a@g@[]M_@C_@@]Hk@VKHUTo@tAKHMF_@Bo@I_@AoAF_@AOEKKEMG_BI]IKs@g@k@Ya@Ic@@OF[TSZQ\\g@xAiA|Da@bAQTMFMBMAYMi@m@I_@IuAEQIOW[kAw@_@Oa@IwAG_@GOEw@c@OCa@?cAJa@Am@Qi@[S[M]WaBQcCAaA@q@D_@N[VUv@g@JKP]Jq@BuAIeESkEYcDMo@M]SYKK]O_@Ea@B_@HoCr@oDfAaATc@@QA_@Ko@UOCcBCOCMGEMCq@EMO[uC}C]k@K_@?c@JyBz@_KLgB@{BGaE@s@D_@Ja@FMVU\\OjA[LGHKL]D_@AOI_@UY[OiAe@YUGOCO?c@JkBAOKa@IMUY[U]O_@K_@GO@OFWXM\\Y~@OdAGPINg@d@MHQDO@QE]Qk@q@}CsF{@kA_@[YI[A[B[H[Ne@^]h@GPANBPP`@TZ`BrBR`@DRBd@Cx@Kd@Yr@ML_@VgAZe@@kAESBQDMJW\\{@tB[V_@NQBc@?a@M{@c@c@Ea@Bs@Jo@P[RUXI`@O`Ai@~Ao@vAmBnDiAhCSn@CPAb@Jt@J`@N^h@z@f@d@^Pl@T~Bl@\\LZPJJR\\H^D`@?r@GfAGb@Qp@cBnEiEdKg@xAI^?PB\\Rl@?PCNUVkA~@SVENANDNNZ`@b@lBbBPZNZLn@Bp@A`@Gl@I\\OZ_@`@YP[LgB^[PSRYf@Wt@YxAEl@@p@N\\XThAn@nAdAr@r@^l@r@`B`@vAPhA@b@Ad@Kt@O`@KL[VmAn@KLO\\Cb@Jr@L\\n@dABL@NK\\OZ]d@k@l@YRODo@BwCXs@@q@E]KWWM]?QBOFOv@sAn@uA^g@j@_@p@[b@M`BMd@IxBaA\\UX]N_@Lw@@e@Ce@OgAa@wAq@_Bg@{@q@q@mAcAeAm@[UIMEMAs@Hq@\\cBL_@P]X[LI`@MxA]n@[Z[HMTu@Hw@?e@Gy@Mc@Qa@U]mBaBY[Q_@?OFQHMrAeAV]BQ?QSs@CQ?QHc@\\eAlEkKdBuEPs@Fc@J{AAe@Ee@Kc@U]KK_@Sa@OyBm@s@W]Si@g@_@m@[eAIw@@QFc@Tq@dA}BtBeEj@kAj@aBLgAFOHMLK^Qr@Q`@Ed@C`@HnAh@b@Bb@E^QXYR]f@qAR]LKPENCxAD`@C`AWZSVYTm@Nq@Bu@Gq@K_@SYoBgCM[CMF]LWRWl@a@h@O\\?\\Df@\\`@f@^l@~CpFZ^PLPJRDT?RGPKj@g@Pc@NiATs@La@HMNKNCP@`@H`@Nl@`@T\\Lb@@RMpBBd@FNHL^T`A`@\\RP^Dd@CNO`@MJQFeAV_@PY\\M`@Eb@Av@DpEAtBOdC{@tJIhBBb@Vn@TZxBzB^d@J^Fr@HLNF`@DvA@pA`@PB`@?`@En@OzEyAdCm@b@AND^PTXN^H`@RfBVbENbE@hACxAKp@GPUXw@f@WTO\\Eb@Ap@BtANtBJr@Np@N^HLLJ\\Rn@Tb@BvAOP@PBx@d@ND`@FtAF`@H`@PdAr@TXJ\\J~AJZh@l@ZLN@NCXS\\k@Z_AvA}EVq@R_@XYNGPAb@Bn@TZTd@`@HNBNBjABPFPLJPDd@@~AEb@Db@JNHXZ^l@`@~@Nt@LvA?fAKt@O^ILc@^e@XuHvDy@h@Y\\K\\E\\EjAK\\YRw@PUHu@p@U\\KTI`@@b@Rx@Zx@LTRP|@PFFDJDVBf@AZIXSRm@`@cBzAOJSDS?OIGOKc@QSWMWGk@AQ?OHINCHBRHPXVHJAFQj@?ZDl@GPYRc@JY@}BMYDSJQRMXEN?j@CTGHSLeAf@KLGNQfAOPWNMDMAYIOSEYF[x@iAHS?SCSWu@CODM~@c@HOBQCQO]QWc@]{@a@[IMA[Bw@Vi@^INCP@f@Px@@TEPKNOFQ@OEMIi@}@a@gAMg@CU@SDUx@}AFU@UCcAM_AUe@ESA}@Fg@HMR?lA^h@Br@CTIFEVg@b@e@F[E]K[c@cA[e@SOUEY?s@PaA`@KHOXKHk@L_@DO?MEIM?k@^cD@q@EQKOOKUCwAK[@[H_@XoAdBa@Z",
+        "resource_state": 3,
+        "summary_polyline": "jy_fAkvbz^kGsDoByHt@aHsBkFlEs@h@oF~Ai@`KvHOlFjIUlCwCiAkFxCqCN{DyJcPjAsEhGeEKiE_EcF|BcCIeDtJiZ{@iCgHyCiA{EzIeTtI@zCgEjGgAh@cEeDyFpBqBnLfL|DyGpDtAJ~E`DrCeElEsAl_@rFdJ~WcAxAlSsCbHfAtK~NfCrEfHnF{LjBSpCfFdGv@vAfJuMzI_AdEyDfCjClKiE`DcEaBJpFgGj@oE`IqA{@vA{JeFg@aA~EeCyEjAiDc@qH|ENr@sDoBsBwGpBPcHgDg@_HtEaJq@yLbHfIpChHk@gPlDjVfE|BnGmEnI_H~@}JgH}BmEgAvBqHQ~ArFcDmAm@mDeH]y@tAfEDiElChDpAExEpD|BmGfIkByAJoEyB_A{CdDrBbHiCnF}AeBbAmDaDvA]cDoEnDuGs@|@}L{HwGkBsHt@}GsBsFpEu@f@iFvAi@bKnHEvFhI[fCmCiAaFzC_DLgEyJoOjA{EfG}DEgEaEyF|BeChJi_@aJ}GiA_FpIwS`JGpC_EvGoAf@eEgDkFjB{BxBVrHhK`EuGvDxAJvE`DzC_EtDyAj`@nF|I`X}@rArTsCjHrAfJvN`CpEbHdHwMzClAb@xCbFVtCjDpFgC}BwEoFdDsEAoFuFyGtMuEiHiNuBsAcJnCeHwAcUgXz@mFwIxAu_@`EyDiDwDGsEwDuAeEtGyHqK_CIaB~B`DdFe@fEsGdAmC`EcJBsIxSdAlFbJtGyJxZJ|C{BbC`ElFH`EaGxDsAbFvG~HhBdImD`FhApEoA~B}Kn@|BiHzMkHcBkI_H_IvAkF|FoDGqE}DkFxB}BK}CxJ{ZkJcH_A}EvIySpIDtCcEtGkAj@eEgD{FbCyBjKjLpEsGpDxAFrEbD`DcEzDsAf`@rFtI~WaAvAnRsC`IfAtKvN~BxElHhHwM`ElFxENnCjD|FgC_C{EuFfD_FA}@iDeDiAaHrMkEgHqN{BkAsKrCkHsAcSaPbBiGm@mF{IvAw_@`EcEiDeDEqEyDwAkEpGmHmKuBUwB`CfDxFe@xDmGfA}CfEyI@uI~SjAhF~IfGmJ``@{B~BdEzFFpDgG`EqAdFxG|HfBlImDxEjAxEeBlC{KMrCcGbKcDtAkCeBkI{GeIfAsEnGmEK{DaEmF|BcCjJa`@kJyG{@aFvIuStIBvCeErGmA`@gEaDkFrB{BfLfLfEyGhDvAL~E`D~CaEnDuAl`@tFvI|W_AvAzRsCvHfApK`OfCtEdHfIsMnC|ElF^zBhEWbGyLzG}@bE_EtCrC|JiEbDgE_BLrFcGd@yEfIkAs@xAcK}Eo@uAdF{BsEjAsDg@cHfF@LgFgJr@_@aIaHzC"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": "b8820330",
+    "from_accepted_tag": false,
+    "upload_id_str": "6830858160",
+    "start_latlng": [
+        -11.636859448626637,
+        166.97206414304674
+    ],
+    "end_latlng": [
+        -11.650970466434956,
+        166.9798527751118
+    ],
+    "start_latitude": -11.636859448626637,
+    "start_longitude": 166.9798527751118,
+    "average_speed": 9.519,
+    "max_speed": 15.35,
+    "average_cadence": 87.9,
+    "average_watts": 168.4,
+    "max_watts": 336,
+    "weighted_average_watts": 170,
+    "kilojoules": 1212.9,
+    "device_watts": true,
+    "has_heartrate": true,
+    "average_heartrate": 128.5,
+    "max_heartrate": 150.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 82.6,
+    "elev_low": 11.2,
+    "pr_count": 2,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "suffer_score": 55.0,
+    "description": null,
+    "calories": 1156.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+        {
+            "id": 2909787192507663790,
+            "resource_state": 2,
+            "name": "Fuego Flats Forward Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 55,
+            "moving_time": 55,
+            "start_date": "2021-12-25T09:33:13Z",
+            "start_date_local": "2021-12-25T10:33:13Z",
+            "distance": 496.6,
+            "start_index": 253,
+            "end_index": 308,
+            "average_cadence": 83.0,
+            "device_watts": true,
+            "average_watts": 144.4,
+            "average_heartrate": 117.5,
+            "max_heartrate": 121.0,
+            "segment": {
+                "id": 20350107,
+                "resource_state": 2,
+                "name": "Fuego Flats Forward Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 496.6,
+                "average_grade": 0.2,
+                "maximum_grade": 1.7,
+                "elevation_high": 14.4,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.640803,
+                    166.978637
+                ],
+                "end_latlng": [
+                    -11.639186,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.640803,
+                "start_longitude": 166.978637,
+                "end_latitude": -11.639186,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192505528750,
+            "resource_state": 2,
+            "name": "Sand and Sequoias",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 2139,
+            "moving_time": 2139,
+            "start_date": "2021-12-25T09:34:08Z",
+            "start_date_local": "2021-12-25T10:34:08Z",
+            "distance": 20144.7,
+            "start_index": 308,
+            "end_index": 2447,
+            "average_cadence": 88.4,
+            "device_watts": true,
+            "average_watts": 186.0,
+            "average_heartrate": 131.6,
+            "max_heartrate": 149.0,
+            "segment": {
+                "id": 21911197,
+                "resource_state": 2,
+                "name": "Sand and Sequoias",
+                "activity_type": "VirtualRide",
+                "distance": 20144.7,
+                "average_grade": 0.0,
+                "maximum_grade": 5.5,
+                "elevation_high": 82.6,
+                "elevation_low": 11.2,
+                "start_latlng": [
+                    -11.639187,
+                    166.982392
+                ],
+                "end_latlng": [
+                    -11.639187,
+                    166.982392
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.639187,
+                "start_longitude": 166.982392,
+                "end_latitude": -11.639187,
+                "end_longitude": 166.982392,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 3,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 3
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192505226670,
+            "resource_state": 2,
+            "name": "Titans Grove, Northbound",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 965,
+            "moving_time": 965,
+            "start_date": "2021-12-25T09:48:44Z",
+            "start_date_local": "2021-12-25T10:48:44Z",
+            "distance": 8819.0,
+            "start_index": 1184,
+            "end_index": 2149,
+            "average_cadence": 88.4,
+            "device_watts": true,
+            "average_watts": 197.5,
+            "average_heartrate": 136.9,
+            "max_heartrate": 149.0,
+            "segment": {
+                "id": 21563651,
+                "resource_state": 2,
+                "name": "Titans Grove, Northbound",
+                "activity_type": "VirtualRide",
+                "distance": 8819.0,
+                "average_grade": -0.2,
+                "maximum_grade": 5.5,
+                "elevation_high": 82.6,
+                "elevation_low": 11.2,
+                "start_latlng": [
+                    -11.659139,
+                    166.976631
+                ],
+                "end_latlng": [
+                    -11.63735,
+                    166.969121
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.659139,
+                "start_longitude": 166.976631,
+                "end_latitude": -11.63735,
+                "end_longitude": 166.969121,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192506615214,
+            "resource_state": 2,
+            "name": "Titans Grove KOM",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 358,
+            "moving_time": 358,
+            "start_date": "2021-12-25T09:52:12Z",
+            "start_date_local": "2021-12-25T10:52:12Z",
+            "distance": 2618.3,
+            "start_index": 1392,
+            "end_index": 1750,
+            "average_cadence": 91.7,
+            "device_watts": true,
+            "average_watts": 218.5,
+            "average_heartrate": 143.0,
+            "max_heartrate": 149.0,
+            "segment": {
+                "id": 21343975,
+                "resource_state": 2,
+                "name": "Titans Grove KOM",
+                "activity_type": "VirtualRide",
+                "distance": 2618.3,
+                "average_grade": 2.2,
+                "maximum_grade": 4.2,
+                "elevation_high": 82.6,
+                "elevation_low": 25.8,
+                "start_latlng": [
+                    -11.653313,
+                    166.978197
+                ],
+                "end_latlng": [
+                    -11.649797,
+                    166.976448
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.653313,
+                "start_longitude": 166.978197,
+                "end_latitude": -11.649797,
+                "end_longitude": 166.976448,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 1,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 1
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192513438126,
+            "resource_state": 2,
+            "name": "Tempus Fugit TT",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 2054,
+            "moving_time": 1702,
+            "start_date": "2021-12-25T10:06:02Z",
+            "start_date_local": "2021-12-25T11:06:02Z",
+            "distance": 17536.6,
+            "start_index": 2222,
+            "end_index": 3928,
+            "average_cadence": 75.5,
+            "device_watts": true,
+            "average_watts": 148.0,
+            "average_heartrate": 125.4,
+            "max_heartrate": 150.0,
+            "segment": {
+                "id": 26782084,
+                "resource_state": 2,
+                "name": "Tempus Fugit TT",
+                "activity_type": "VirtualRide",
+                "distance": 17536.6,
+                "average_grade": 0.0,
+                "maximum_grade": 1.9,
+                "elevation_high": 17.6,
+                "elevation_low": 12.6,
+                "start_latlng": [
+                    -11.635224,
+                    166.973755
+                ],
+                "end_latlng": [
+                    -11.63914,
+                    166.982349
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.635224,
+                "start_longitude": 166.973755,
+                "end_latitude": -11.63914,
+                "end_longitude": 166.982349,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2909787192510225838,
+            "resource_state": 2,
+            "name": "Fuego Flats Forward Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 44,
+            "moving_time": 44,
+            "start_date": "2021-12-25T10:09:03Z",
+            "start_date_local": "2021-12-25T11:09:03Z",
+            "distance": 496.6,
+            "start_index": 2403,
+            "end_index": 2447,
+            "average_cadence": 98.0,
+            "device_watts": true,
+            "average_watts": 231.1,
+            "average_heartrate": 138.8,
+            "max_heartrate": 146.0,
+            "segment": {
+                "id": 20350107,
+                "resource_state": 2,
+                "name": "Fuego Flats Forward Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 496.6,
+                "average_grade": 0.2,
+                "maximum_grade": 1.7,
+                "elevation_high": 14.4,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.640803,
+                    166.978637
+                ],
+                "end_latlng": [
+                    -11.639186,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.640803,
+                "start_longitude": 166.978637,
+                "end_latitude": -11.639186,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 1,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 1
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192510543278,
+            "resource_state": 2,
+            "name": "Tempus Fugit",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 2044,
+            "moving_time": 1692,
+            "start_date": "2021-12-25T10:09:47Z",
+            "start_date_local": "2021-12-25T11:09:47Z",
+            "distance": 17297.1,
+            "start_index": 2447,
+            "end_index": 4143,
+            "average_cadence": 75.3,
+            "device_watts": true,
+            "average_watts": 145.0,
+            "average_heartrate": 124.2,
+            "max_heartrate": 150.0,
+            "segment": {
+                "id": 20350088,
+                "resource_state": 2,
+                "name": "Tempus Fugit",
+                "activity_type": "VirtualRide",
+                "distance": 17297.1,
+                "average_grade": 0.0,
+                "maximum_grade": 2.0,
+                "elevation_high": 17.6,
+                "elevation_low": 12.6,
+                "start_latlng": [
+                    -11.639187,
+                    166.982381
+                ],
+                "end_latlng": [
+                    -11.639168,
+                    166.982381
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.639187,
+                "start_longitude": 166.982381,
+                "end_latitude": -11.639168,
+                "end_longitude": 166.982381,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192510860718,
+            "resource_state": 2,
+            "name": "Tempus Fugit 2x",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 3851,
+            "moving_time": 3499,
+            "start_date": "2021-12-25T10:09:48Z",
+            "start_date_local": "2021-12-25T11:09:48Z",
+            "distance": 34608.5,
+            "start_index": 2448,
+            "end_index": 5951,
+            "average_cadence": 81.2,
+            "device_watts": true,
+            "average_watts": 154.4,
+            "average_heartrate": 126.6,
+            "max_heartrate": 150.0,
+            "segment": {
+                "id": 22219369,
+                "resource_state": 2,
+                "name": "Tempus Fugit 2x",
+                "activity_type": "VirtualRide",
+                "distance": 34608.5,
+                "average_grade": 0.0,
+                "maximum_grade": 2.1,
+                "elevation_high": 17.6,
+                "elevation_low": 12.6,
+                "start_latlng": [
+                    -11.639172,
+                    166.982446
+                ],
+                "end_latlng": [
+                    -11.639186,
+                    166.982446
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.639172,
+                "start_longitude": 166.982446,
+                "end_latitude": -11.639186,
+                "end_longitude": 166.982446,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 2,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 2
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192510007726,
+            "resource_state": 2,
+            "name": "Fuego Flats Reverse Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 1078,
+            "moving_time": 726,
+            "start_date": "2021-12-25T10:22:18Z",
+            "start_date_local": "2021-12-25T11:22:18Z",
+            "distance": 7062.3,
+            "start_index": 3198,
+            "end_index": 3928,
+            "average_cadence": 64.0,
+            "device_watts": true,
+            "average_watts": 122.7,
+            "average_heartrate": 117.7,
+            "max_heartrate": 133.0,
+            "segment": {
+                "id": 20350066,
+                "resource_state": 2,
+                "name": "Fuego Flats Reverse Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 7062.3,
+                "average_grade": 0.0,
+                "maximum_grade": 1.9,
+                "elevation_high": 17.6,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.660055,
+                    166.985343
+                ],
+                "end_latlng": [
+                    -11.63912,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.660055,
+                "start_longitude": 166.985343,
+                "end_latitude": -11.63912,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": null,
+                "country": null,
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192510976430,
+            "resource_state": 2,
+            "name": "Fuego Flats Forward Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 52,
+            "moving_time": 52,
+            "start_date": "2021-12-25T10:42:58Z",
+            "start_date_local": "2021-12-25T11:42:58Z",
+            "distance": 496.6,
+            "start_index": 4090,
+            "end_index": 4142,
+            "average_cadence": 90.9,
+            "device_watts": true,
+            "average_watts": 165.3,
+            "average_heartrate": 123.2,
+            "max_heartrate": 125.0,
+            "segment": {
+                "id": 20350107,
+                "resource_state": 2,
+                "name": "Fuego Flats Forward Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 496.6,
+                "average_grade": 0.2,
+                "maximum_grade": 1.7,
+                "elevation_high": 14.4,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.640803,
+                    166.978637
+                ],
+                "end_latlng": [
+                    -11.639186,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.640803,
+                "start_longitude": 166.978637,
+                "end_latitude": -11.639186,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192511597998,
+            "resource_state": 2,
+            "name": "Tempus Fugit",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 1807,
+            "moving_time": 1807,
+            "start_date": "2021-12-25T10:43:51Z",
+            "start_date_local": "2021-12-25T11:43:51Z",
+            "distance": 17297.1,
+            "start_index": 4143,
+            "end_index": 5950,
+            "average_cadence": 87.9,
+            "device_watts": true,
+            "average_watts": 165.0,
+            "average_heartrate": 129.4,
+            "max_heartrate": 143.0,
+            "segment": {
+                "id": 20350088,
+                "resource_state": 2,
+                "name": "Tempus Fugit",
+                "activity_type": "VirtualRide",
+                "distance": 17297.1,
+                "average_grade": 0.0,
+                "maximum_grade": 2.0,
+                "elevation_high": 17.6,
+                "elevation_low": 12.6,
+                "start_latlng": [
+                    -11.639187,
+                    166.982381
+                ],
+                "end_latlng": [
+                    -11.639168,
+                    166.982381
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.639187,
+                "start_longitude": 166.982381,
+                "end_latitude": -11.639168,
+                "end_longitude": 166.982381,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 2,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 2
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192509506990,
+            "resource_state": 2,
+            "name": "Fuego Flats Reverse Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 760,
+            "moving_time": 760,
+            "start_date": "2021-12-25T10:57:56Z",
+            "start_date_local": "2021-12-25T11:57:56Z",
+            "distance": 7062.3,
+            "start_index": 4988,
+            "end_index": 5748,
+            "average_cadence": 88.0,
+            "device_watts": true,
+            "average_watts": 166.2,
+            "average_heartrate": 130.3,
+            "max_heartrate": 143.0,
+            "segment": {
+                "id": 20350066,
+                "resource_state": 2,
+                "name": "Fuego Flats Reverse Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 7062.3,
+                "average_grade": 0.0,
+                "maximum_grade": 1.9,
+                "elevation_high": 17.6,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.660055,
+                    166.985343
+                ],
+                "end_latlng": [
+                    -11.63912,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.660055,
+                "start_longitude": 166.985343,
+                "end_latitude": -11.63912,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": null,
+                "country": null,
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 2,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 2
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2909787192510885294,
+            "resource_state": 2,
+            "name": "Fuego Flats Forward Sprint",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 50,
+            "moving_time": 50,
+            "start_date": "2021-12-25T11:13:08Z",
+            "start_date_local": "2021-12-25T12:13:08Z",
+            "distance": 496.6,
+            "start_index": 5900,
+            "end_index": 5950,
+            "average_cadence": 89.1,
+            "device_watts": true,
+            "average_watts": 157.7,
+            "average_heartrate": 134.0,
+            "max_heartrate": 139.0,
+            "segment": {
+                "id": 20350107,
+                "resource_state": 2,
+                "name": "Fuego Flats Forward Sprint",
+                "activity_type": "VirtualRide",
+                "distance": 496.6,
+                "average_grade": 0.2,
+                "maximum_grade": 1.7,
+                "elevation_high": 14.4,
+                "elevation_low": 13.2,
+                "start_latlng": [
+                    -11.640803,
+                    166.978637
+                ],
+                "end_latlng": [
+                    -11.639186,
+                    166.98236
+                ],
+                "elevation_profile": null,
+                "start_latitude": -11.640803,
+                "start_longitude": 166.978637,
+                "end_latitude": -11.639186,
+                "end_longitude": 166.98236,
+                "climb_category": 0,
+                "city": null,
+                "state": "Temotu Province",
+                "country": "Solomon Islands",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        }
+    ],
+    "splits_metric": [
+        {
+            "distance": 1004.1,
+            "elapsed_time": 179,
+            "elevation_difference": 2.6,
+            "moving_time": 139,
+            "split": 1,
+            "average_speed": 7.22,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 108.43165467625899,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.3,
+            "elapsed_time": 108,
+            "elevation_difference": -2.2,
+            "moving_time": 108,
+            "split": 2,
+            "average_speed": 9.29,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 114.22222222222223,
+            "pace_zone": 0
+        },
+        {
+            "distance": 993.0,
+            "elapsed_time": 106,
+            "elevation_difference": 0.0,
+            "moving_time": 106,
+            "split": 3,
+            "average_speed": 9.37,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 118.08490566037736,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.4,
+            "elapsed_time": 101,
+            "elevation_difference": 0.0,
+            "moving_time": 101,
+            "split": 4,
+            "average_speed": 9.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.07920792079207,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1005.8,
+            "elapsed_time": 102,
+            "elevation_difference": 0.0,
+            "moving_time": 102,
+            "split": 5,
+            "average_speed": 9.86,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.86274509803921,
+            "pace_zone": 0
+        },
+        {
+            "distance": 993.2,
+            "elapsed_time": 95,
+            "elevation_difference": 0.4,
+            "moving_time": 95,
+            "split": 6,
+            "average_speed": 10.45,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.33684210526316,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.1,
+            "elapsed_time": 95,
+            "elevation_difference": -0.4,
+            "moving_time": 95,
+            "split": 7,
+            "average_speed": 10.55,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.23157894736842,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.0,
+            "elapsed_time": 97,
+            "elevation_difference": 0.0,
+            "moving_time": 97,
+            "split": 8,
+            "average_speed": 10.28,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.28865979381443,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1004.2,
+            "elapsed_time": 104,
+            "elevation_difference": 0.0,
+            "moving_time": 104,
+            "split": 9,
+            "average_speed": 9.66,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.93269230769232,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.7,
+            "elapsed_time": 99,
+            "elevation_difference": -0.4,
+            "moving_time": 99,
+            "split": 10,
+            "average_speed": 10.08,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.989898989899,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1001.4,
+            "elapsed_time": 137,
+            "elevation_difference": 16.2,
+            "moving_time": 137,
+            "split": 11,
+            "average_speed": 7.31,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.86131386861314,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1006.6,
+            "elapsed_time": 132,
+            "elevation_difference": 8.2,
+            "moving_time": 132,
+            "split": 12,
+            "average_speed": 7.63,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.4318181818182,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.3,
+            "elapsed_time": 95,
+            "elevation_difference": -5.8,
+            "moving_time": 95,
+            "split": 13,
+            "average_speed": 10.47,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 132.29473684210527,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.5,
+            "elapsed_time": 123,
+            "elevation_difference": 13.4,
+            "moving_time": 123,
+            "split": 14,
+            "average_speed": 8.13,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 138.4227642276423,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1001.0,
+            "elapsed_time": 151,
+            "elevation_difference": 28.6,
+            "moving_time": 151,
+            "split": 15,
+            "average_speed": 6.63,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 146.57615894039736,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.8,
+            "elapsed_time": 104,
+            "elevation_difference": -16.4,
+            "moving_time": 104,
+            "split": 16,
+            "average_speed": 9.59,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 146.90384615384616,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.6,
+            "elapsed_time": 93,
+            "elevation_difference": -6.8,
+            "moving_time": 93,
+            "split": 17,
+            "average_speed": 10.73,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 136.90322580645162,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1010.6,
+            "elapsed_time": 100,
+            "elevation_difference": -20.8,
+            "moving_time": 100,
+            "split": 18,
+            "average_speed": 10.11,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 133.26,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.2,
+            "elapsed_time": 87,
+            "elevation_difference": -9.8,
+            "moving_time": 87,
+            "split": 19,
+            "average_speed": 11.46,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.1494252873563,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.7,
+            "elapsed_time": 95,
+            "elevation_difference": -8.0,
+            "moving_time": 95,
+            "split": 20,
+            "average_speed": 10.51,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.61052631578949,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.1,
+            "elapsed_time": 112,
+            "elevation_difference": 4.6,
+            "moving_time": 112,
+            "split": 21,
+            "average_speed": 8.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.33928571428572,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.9,
+            "elapsed_time": 104,
+            "elevation_difference": -2.4,
+            "moving_time": 104,
+            "split": 22,
+            "average_speed": 9.64,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.43269230769232,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.1,
+            "elapsed_time": 87,
+            "elevation_difference": 0.0,
+            "moving_time": 87,
+            "split": 23,
+            "average_speed": 11.43,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 140.26436781609195,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.5,
+            "elapsed_time": 87,
+            "elevation_difference": -0.6,
+            "moving_time": 87,
+            "split": 24,
+            "average_speed": 11.5,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 144.97701149425288,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.0,
+            "elapsed_time": 90,
+            "elevation_difference": 0.0,
+            "moving_time": 90,
+            "split": 25,
+            "average_speed": 11.07,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 137.15555555555557,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1012.2,
+            "elapsed_time": 100,
+            "elevation_difference": 1.0,
+            "moving_time": 100,
+            "split": 26,
+            "average_speed": 10.12,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.57,
+            "pace_zone": 0
+        },
+        {
+            "distance": 990.2,
+            "elapsed_time": 87,
+            "elevation_difference": -1.0,
+            "moving_time": 87,
+            "split": 27,
+            "average_speed": 11.38,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.55172413793105,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.5,
+            "elapsed_time": 91,
+            "elevation_difference": 0.0,
+            "moving_time": 91,
+            "split": 28,
+            "average_speed": 11.02,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 135.34065934065933,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.4,
+            "elapsed_time": 93,
+            "elevation_difference": 0.0,
+            "moving_time": 93,
+            "split": 29,
+            "average_speed": 10.71,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.3978494623656,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.3,
+            "elapsed_time": 93,
+            "elevation_difference": -0.4,
+            "moving_time": 93,
+            "split": 30,
+            "average_speed": 10.75,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.6451612903226,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1007.0,
+            "elapsed_time": 92,
+            "elevation_difference": 0.6,
+            "moving_time": 92,
+            "split": 31,
+            "average_speed": 10.95,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 133.2826086956522,
+            "pace_zone": 0
+        },
+        {
+            "distance": 995.0,
+            "elapsed_time": 91,
+            "elevation_difference": -0.2,
+            "moving_time": 91,
+            "split": 32,
+            "average_speed": 10.93,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.07692307692307,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1005.1,
+            "elapsed_time": 92,
+            "elevation_difference": 0.0,
+            "moving_time": 92,
+            "split": 33,
+            "average_speed": 10.93,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.32608695652175,
+            "pace_zone": 0
+        },
+        {
+            "distance": 992.6,
+            "elapsed_time": 92,
+            "elevation_difference": 0.4,
+            "moving_time": 92,
+            "split": 34,
+            "average_speed": 10.79,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.33695652173913,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1008.9,
+            "elapsed_time": 96,
+            "elevation_difference": 3.8,
+            "moving_time": 96,
+            "split": 35,
+            "average_speed": 10.51,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.97916666666666,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.2,
+            "elapsed_time": 476,
+            "elevation_difference": -4.4,
+            "moving_time": 124,
+            "split": 36,
+            "average_speed": 8.03,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.12096774193549,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.3,
+            "elapsed_time": 109,
+            "elevation_difference": 0.2,
+            "moving_time": 109,
+            "split": 37,
+            "average_speed": 9.2,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.41284403669725,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.1,
+            "elapsed_time": 112,
+            "elevation_difference": 1.4,
+            "moving_time": 112,
+            "split": 38,
+            "average_speed": 8.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.625,
+            "pace_zone": 0
+        },
+        {
+            "distance": 995.2,
+            "elapsed_time": 109,
+            "elevation_difference": -0.4,
+            "moving_time": 109,
+            "split": 39,
+            "average_speed": 9.13,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.5045871559633,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.5,
+            "elapsed_time": 107,
+            "elevation_difference": 0.2,
+            "moving_time": 107,
+            "split": 40,
+            "average_speed": 9.34,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.38317757009345,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1007.8,
+            "elapsed_time": 101,
+            "elevation_difference": -1.2,
+            "moving_time": 101,
+            "split": 41,
+            "average_speed": 9.98,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 122.96039603960396,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.2,
+            "elapsed_time": 102,
+            "elevation_difference": -0.2,
+            "moving_time": 102,
+            "split": 42,
+            "average_speed": 9.8,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.15686274509804,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.2,
+            "elapsed_time": 105,
+            "elevation_difference": 4.0,
+            "moving_time": 105,
+            "split": 43,
+            "average_speed": 9.47,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.86666666666666,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1006.1,
+            "elapsed_time": 102,
+            "elevation_difference": -3.4,
+            "moving_time": 102,
+            "split": 44,
+            "average_speed": 9.86,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.08823529411765,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.7,
+            "elapsed_time": 103,
+            "elevation_difference": -0.4,
+            "moving_time": 103,
+            "split": 45,
+            "average_speed": 9.66,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.33009708737865,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1005.7,
+            "elapsed_time": 99,
+            "elevation_difference": 0.0,
+            "moving_time": 99,
+            "split": 46,
+            "average_speed": 10.16,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.91919191919192,
+            "pace_zone": 0
+        },
+        {
+            "distance": 991.9,
+            "elapsed_time": 100,
+            "elevation_difference": 0.4,
+            "moving_time": 100,
+            "split": 47,
+            "average_speed": 9.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.71,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.6,
+            "elapsed_time": 105,
+            "elevation_difference": -0.8,
+            "moving_time": 105,
+            "split": 48,
+            "average_speed": 9.53,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 132.62857142857143,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.2,
+            "elapsed_time": 110,
+            "elevation_difference": 0.6,
+            "moving_time": 110,
+            "split": 49,
+            "average_speed": 9.12,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.99090909090908,
+            "pace_zone": 0
+        },
+        {
+            "distance": 995.3,
+            "elapsed_time": 107,
+            "elevation_difference": -0.2,
+            "moving_time": 107,
+            "split": 50,
+            "average_speed": 9.3,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.97196261682242,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.2,
+            "elapsed_time": 106,
+            "elevation_difference": 0.0,
+            "moving_time": 106,
+            "split": 51,
+            "average_speed": 9.45,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.30188679245282,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1006.1,
+            "elapsed_time": 106,
+            "elevation_difference": 0.4,
+            "moving_time": 106,
+            "split": 52,
+            "average_speed": 9.49,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.82075471698113,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.0,
+            "elapsed_time": 106,
+            "elevation_difference": -0.4,
+            "moving_time": 106,
+            "split": 53,
+            "average_speed": 9.42,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.52830188679246,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.3,
+            "elapsed_time": 104,
+            "elevation_difference": 0.0,
+            "moving_time": 104,
+            "split": 54,
+            "average_speed": 9.6,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 134.4903846153846,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.0,
+            "elapsed_time": 108,
+            "elevation_difference": 0.0,
+            "moving_time": 108,
+            "split": 55,
+            "average_speed": 9.28,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.5462962962963,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.3,
+            "elapsed_time": 106,
+            "elevation_difference": 0.0,
+            "moving_time": 106,
+            "split": 56,
+            "average_speed": 9.42,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.4245283018868,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.2,
+            "elapsed_time": 103,
+            "elevation_difference": 0.0,
+            "moving_time": 103,
+            "split": 57,
+            "average_speed": 9.7,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.90291262135923,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.2,
+            "elapsed_time": 100,
+            "elevation_difference": 0.0,
+            "moving_time": 100,
+            "split": 58,
+            "average_speed": 9.97,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.68,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.4,
+            "elapsed_time": 98,
+            "elevation_difference": 0.0,
+            "moving_time": 98,
+            "split": 59,
+            "average_speed": 10.21,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.45918367346938,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.3,
+            "elapsed_time": 101,
+            "elevation_difference": 0.0,
+            "moving_time": 101,
+            "split": 60,
+            "average_speed": 9.93,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.44554455445545,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1001.2,
+            "elapsed_time": 102,
+            "elevation_difference": 0.6,
+            "moving_time": 102,
+            "split": 61,
+            "average_speed": 9.82,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.97058823529412,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.6,
+            "elapsed_time": 101,
+            "elevation_difference": -0.6,
+            "moving_time": 101,
+            "split": 62,
+            "average_speed": 9.85,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.6138613861386,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1005.2,
+            "elapsed_time": 104,
+            "elevation_difference": 0.0,
+            "moving_time": 104,
+            "split": 63,
+            "average_speed": 9.67,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.51923076923077,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.0,
+            "elapsed_time": 104,
+            "elevation_difference": 2.0,
+            "moving_time": 104,
+            "split": 64,
+            "average_speed": 9.59,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.55769230769232,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.8,
+            "elapsed_time": 101,
+            "elevation_difference": -1.2,
+            "moving_time": 101,
+            "split": 65,
+            "average_speed": 9.91,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.5049504950495,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.1,
+            "elapsed_time": 155,
+            "elevation_difference": 20.0,
+            "moving_time": 155,
+            "split": 66,
+            "average_speed": 6.43,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.38064516129032,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.6,
+            "elapsed_time": 137,
+            "elevation_difference": 5.0,
+            "moving_time": 137,
+            "split": 67,
+            "average_speed": 7.32,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 121.86131386861314,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.0,
+            "elapsed_time": 112,
+            "elevation_difference": -7.4,
+            "moving_time": 112,
+            "split": 68,
+            "average_speed": 8.9,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 117.5,
+            "pace_zone": 0
+        },
+        {
+            "distance": 547.6,
+            "elapsed_time": 82,
+            "elevation_difference": 3.8,
+            "moving_time": 82,
+            "split": 69,
+            "average_speed": 6.68,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.43037974683544,
+            "pace_zone": 0
+        }
+    ],
+    "splits_standard": [
+        {
+            "distance": 1610.9,
+            "elapsed_time": 247,
+            "elevation_difference": 1.2,
+            "moving_time": 207,
+            "split": 1,
+            "average_speed": 7.78,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 110.44927536231884,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.9,
+            "elapsed_time": 168,
+            "elevation_difference": -0.8,
+            "moving_time": 168,
+            "split": 2,
+            "average_speed": 9.58,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 116.98809523809524,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1616.2,
+            "elapsed_time": 163,
+            "elevation_difference": 0.0,
+            "moving_time": 163,
+            "split": 3,
+            "average_speed": 9.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.80981595092024,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1601.8,
+            "elapsed_time": 154,
+            "elevation_difference": 0.4,
+            "moving_time": 154,
+            "split": 4,
+            "average_speed": 10.4,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.98051948051948,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1613.7,
+            "elapsed_time": 156,
+            "elevation_difference": -0.4,
+            "moving_time": 156,
+            "split": 5,
+            "average_speed": 10.34,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.23076923076923,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.7,
+            "elapsed_time": 167,
+            "elevation_difference": 0.6,
+            "moving_time": 167,
+            "split": 6,
+            "average_speed": 9.64,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.4311377245509,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1605.1,
+            "elapsed_time": 213,
+            "elevation_difference": 24.2,
+            "moving_time": 213,
+            "split": 7,
+            "average_speed": 7.54,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.78873239436619,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1613.7,
+            "elapsed_time": 166,
+            "elevation_difference": -9.6,
+            "moving_time": 166,
+            "split": 8,
+            "average_speed": 9.72,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 132.8855421686747,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.4,
+            "elapsed_time": 213,
+            "elevation_difference": 30.2,
+            "moving_time": 213,
+            "split": 9,
+            "average_speed": 7.54,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 140.28638497652582,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.9,
+            "elapsed_time": 187,
+            "elevation_difference": -6.0,
+            "moving_time": 187,
+            "split": 10,
+            "average_speed": 8.59,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 147.2192513368984,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1611.5,
+            "elapsed_time": 164,
+            "elevation_difference": -12.4,
+            "moving_time": 164,
+            "split": 11,
+            "average_speed": 9.83,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 135.8109756097561,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1611.0,
+            "elapsed_time": 137,
+            "elevation_difference": -25.4,
+            "moving_time": 137,
+            "split": 12,
+            "average_speed": 11.76,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.97080291970804,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1604.8,
+            "elapsed_time": 170,
+            "elevation_difference": 1.4,
+            "moving_time": 170,
+            "split": 13,
+            "average_speed": 9.44,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.21176470588236,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1616.9,
+            "elapsed_time": 162,
+            "elevation_difference": -2.4,
+            "moving_time": 162,
+            "split": 14,
+            "average_speed": 9.98,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 132.41975308641975,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.3,
+            "elapsed_time": 139,
+            "elevation_difference": -0.6,
+            "moving_time": 139,
+            "split": 15,
+            "average_speed": 11.58,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 145.22302158273382,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1603.7,
+            "elapsed_time": 153,
+            "elevation_difference": 4.4,
+            "moving_time": 153,
+            "split": 16,
+            "average_speed": 10.48,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 133.359477124183,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.7,
+            "elapsed_time": 143,
+            "elevation_difference": -4.4,
+            "moving_time": 143,
+            "split": 17,
+            "average_speed": 11.26,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.97202797202797,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.3,
+            "elapsed_time": 149,
+            "elevation_difference": 0.0,
+            "moving_time": 149,
+            "split": 18,
+            "average_speed": 10.78,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.31543624161074,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1617.5,
+            "elapsed_time": 148,
+            "elevation_difference": -0.4,
+            "moving_time": 148,
+            "split": 19,
+            "average_speed": 10.93,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.6418918918919,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1605.3,
+            "elapsed_time": 148,
+            "elevation_difference": 0.4,
+            "moving_time": 148,
+            "split": 20,
+            "average_speed": 10.85,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.33783783783784,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1614.6,
+            "elapsed_time": 149,
+            "elevation_difference": -0.2,
+            "moving_time": 149,
+            "split": 21,
+            "average_speed": 10.84,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.71812080536913,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1599.3,
+            "elapsed_time": 154,
+            "elevation_difference": 0.2,
+            "moving_time": 154,
+            "split": 22,
+            "average_speed": 10.39,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.98701298701297,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.7,
+            "elapsed_time": 546,
+            "elevation_difference": 0.0,
+            "moving_time": 194,
+            "split": 23,
+            "average_speed": 8.3,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.29896907216495,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1607.9,
+            "elapsed_time": 177,
+            "elevation_difference": 0.0,
+            "moving_time": 177,
+            "split": 24,
+            "average_speed": 9.08,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 122.66666666666667,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1615.0,
+            "elapsed_time": 175,
+            "elevation_difference": 0.6,
+            "moving_time": 175,
+            "split": 25,
+            "average_speed": 9.23,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 122.17714285714285,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.9,
+            "elapsed_time": 162,
+            "elevation_difference": -0.8,
+            "moving_time": 162,
+            "split": 26,
+            "average_speed": 9.94,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.03086419753086,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.4,
+            "elapsed_time": 167,
+            "elevation_difference": 0.4,
+            "moving_time": 167,
+            "split": 27,
+            "average_speed": 9.62,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.07784431137725,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1607.8,
+            "elapsed_time": 165,
+            "elevation_difference": -0.2,
+            "moving_time": 165,
+            "split": 28,
+            "average_speed": 9.74,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 128.87878787878788,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1614.9,
+            "elapsed_time": 160,
+            "elevation_difference": 2.0,
+            "moving_time": 160,
+            "split": 29,
+            "average_speed": 10.09,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.0125,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.3,
+            "elapsed_time": 170,
+            "elevation_difference": -1.4,
+            "moving_time": 170,
+            "split": 30,
+            "average_speed": 9.47,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.2,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1602.0,
+            "elapsed_time": 173,
+            "elevation_difference": -0.6,
+            "moving_time": 173,
+            "split": 31,
+            "average_speed": 9.26,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.8728323699422,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1616.3,
+            "elapsed_time": 172,
+            "elevation_difference": 0.6,
+            "moving_time": 172,
+            "split": 32,
+            "average_speed": 9.4,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.36046511627907,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.1,
+            "elapsed_time": 169,
+            "elevation_difference": -0.6,
+            "moving_time": 169,
+            "split": 33,
+            "average_speed": 9.53,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.81065088757396,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1601.4,
+            "elapsed_time": 169,
+            "elevation_difference": 0.0,
+            "moving_time": 169,
+            "split": 34,
+            "average_speed": 9.48,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 132.01775147928993,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1616.3,
+            "elapsed_time": 174,
+            "elevation_difference": 1.0,
+            "moving_time": 174,
+            "split": 35,
+            "average_speed": 9.29,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.33908045977012,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1608.5,
+            "elapsed_time": 161,
+            "elevation_difference": -1.0,
+            "moving_time": 161,
+            "split": 36,
+            "average_speed": 9.99,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.45341614906832,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1604.8,
+            "elapsed_time": 159,
+            "elevation_difference": 0.0,
+            "moving_time": 159,
+            "split": 37,
+            "average_speed": 10.09,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.19496855345912,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1617.3,
+            "elapsed_time": 163,
+            "elevation_difference": 0.6,
+            "moving_time": 163,
+            "split": 38,
+            "average_speed": 9.92,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.79754601226993,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1607.4,
+            "elapsed_time": 166,
+            "elevation_difference": -0.6,
+            "moving_time": 166,
+            "split": 39,
+            "average_speed": 9.68,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 127.70481927710843,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1608.4,
+            "elapsed_time": 167,
+            "elevation_difference": 0.2,
+            "moving_time": 167,
+            "split": 40,
+            "average_speed": 9.63,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.08383233532933,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1605.6,
+            "elapsed_time": 214,
+            "elevation_difference": 20.2,
+            "moving_time": 214,
+            "split": 41,
+            "average_speed": 7.5,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.4392523364486,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1613.2,
+            "elapsed_time": 195,
+            "elevation_difference": -8.2,
+            "moving_time": 195,
+            "split": 42,
+            "average_speed": 8.27,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 120.86153846153846,
+            "pace_zone": 0
+        },
+        {
+            "distance": 949.0,
+            "elapsed_time": 139,
+            "elevation_difference": 10.0,
+            "moving_time": 139,
+            "split": 43,
+            "average_speed": 6.83,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 118.93382352941177,
+            "pace_zone": 0
+        }
+    ],
+    "laps": [
+        {
+            "id": 20989701202,
+            "resource_state": 2,
+            "name": "Lap 1",
+            "activity": {
+                "id": 6425278919,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 7594,
+            "moving_time": 7594,
+            "start_date": "2021-12-25T09:28:26Z",
+            "start_date_local": "2021-12-25T10:28:26Z",
+            "distance": 68548.4,
+            "start_index": 0,
+            "end_index": 7211,
+            "total_elevation_gain": 241.2,
+            "average_speed": 9.03,
+            "max_speed": 15.35,
+            "average_cadence": 87.9,
+            "device_watts": true,
+            "average_watts": 168.4,
+            "average_heartrate": 128.5,
+            "max_heartrate": 150.0,
+            "lap_index": 1,
+            "split": 1
+        }
+    ],
+    "gear": {
+        "id": "b8820330",
+        "primary": true,
+        "name": "SWorks Tarmac SL6",
+        "nickname": "SWorks Tarmac SL6",
+        "resource_state": 2,
+        "retired": false,
+        "distance": 12313793,
+        "converted_distance": 12313.8
+    },
+    "photos": {
+        "primary": null,
+        "count": 0
+    },
+    "stats_visibility": [
+        {
+            "type": "heart_rate",
+            "visibility": "everyone"
+        },
+        {
+            "type": "pace",
+            "visibility": "everyone"
+        },
+        {
+            "type": "power",
+            "visibility": "everyone"
+        },
+        {
+            "type": "speed",
+            "visibility": "everyone"
+        },
+        {
+            "type": "calories",
+            "visibility": "everyone"
+        }
+    ],
+    "hide_from_home": false,
+    "device_name": "Zwift",
+    "embed_token": "1d4dbefbf6cdc7dfbc3e5ea8c1c22928539d2e22",
+    "private_note": null,
+    "available_zones": [
+        "heartrate",
+        "power"
+    ]
+}

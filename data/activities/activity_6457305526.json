@@ -1,0 +1,3431 @@
+{
+    "resource_state": 3,
+    "athlete": {
+        "id": 2374178,
+        "resource_state": 1
+    },
+    "name": "Afternoon Ride",
+    "distance": 24324.3,
+    "moving_time": 4791,
+    "elapsed_time": 7730,
+    "total_elevation_gain": 148.0,
+    "type": "Ride",
+    "workout_type": null,
+    "id": 6457305526,
+    "external_id": "garmin_push_8043986983",
+    "upload_id": 6865543746,
+    "start_date": "2022-01-01T14:42:47Z",
+    "start_date_local": "2022-01-01T15:42:47Z",
+    "timezone": "(GMT+01:00) Europe/Zurich",
+    "utc_offset": 3600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": "Suisse",
+    "achievement_count": 0,
+    "kudos_count": 8,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+        "id": "a6457305526",
+        "polyline": "mr~xGajld@?[@Y\\sABm@}@OUA}@ISISOa@Qu@c@a@WKKS[CMq@oD?KKc@A_@Mw@[aAWeFUiDQsEGUMiCM_AAaAKuAK}BAeAUiCKeF?}AMcAGKGA[BIASSWg@SII?[Li@Hu@X_@HMCQ[MKWGKISe@Ms@m@yD]qACIGGBOCOUqAI]Se@]wAAm@I[Cm@Oq@AWGKMAGEMW?GHg@GY[c@SSUa@MMQ]UWMIo@_Ai@m@s@m@a@o@m@]i@oA[i@c@g@gAeAmAsA_@]OSy@k@QWWQc@u@e@_@M]MOGEOE]EoFfA}ARcFdAu@HwA\\qBXy@TaAb@q@b@a@NW\\i@^q@h@_DvC}AzACD?FMNSP]Na@?[EmBaAoAu@{@_@]I_@?UDg@R_C~@u@VsBv@I@q@PgAf@kC~@}CpAg@Nc@F_ADWAeAO}DsAiDeAc@M}Be@aC_@{@E{AQ_ESkA?aBEeEFsI\\uF^qERmA?q@G{@AcBOoAS]BsA[a@SYUyAi@gDuB{@s@eCeBk@]cAg@{Am@eAYkAQ_AIuCQwA@}@HuA^cARqBr@kDz@_Cr@sANi@@q@A{COiEYiBWu@W_@Sg@_@y@w@k@s@aCgDqE_G}BmCoBkCs@m@o@a@aBc@eB_@eBSe@KYMI?QFCHCJGx@g@jADVJVjAbB\\n@hAxCVjABZ@z@Gr@_@dBMVIV_@f@GZ?N[l@KXIL_@`AU|@Ml@IRM`@e@hCSn@]|AQ~@o@hCe@bCGn@k@`CM`@M|@?TOb@?LEL?TCRUp@OTa@bA}@zAy@|AYl@c@r@sGtLwAbCoAdCgAnB[p@y@jAKRk@r@{@|AyC`FMZc@z@e@dAw@~AiAjBaE~H_@n@_@d@[bAqBbD{@zAiAzBEPL[@EAEAFqDpHq@~AI`@uAzCi@z@}CxF_@\\Mb@Q^eJrNQLG?kAs@UWiAwAg@e@]g@aByA{@a@_Eu@_@UkAgAKEKAo@fBgAhCOVyB|FcCnF_B~DYj@qIvSM?]i@Zh@NAHMrV_m@vAgDFAJBdAbA\\Vr@RjCh@^LXPnBdBrCdDn@f@n@^HA^[LO`CsD~@cBbA{Ap@mAZe@ZSDK^{@`DkGbCyFpC_GvC}FvCyELS`@[DGRw@Rc@bEwHNUb@e@lByD|@{ArAkCz@{AZ]f@kA~AoCf@gA\\k@bFoJxK}Rn@kAt@cBNiA`@mBf@yB|@oEZqAx@oEfAeFj@}Bp@{BzBiFLi@Hm@Bm@AcAGi@Qw@a@iAe@gA_@o@sAuBM_@AOBMTa@PSRGVEV?nBXlBRzAT\\Lp@l@pMtPrCzD|@bAr@n@n@\\fA^f@HtALdB`@tBTXC\\@ZBXJz@A~@Gl@M|C}@dBa@j@IvAOz@A\\BjATZLXBXAv@Wp@Q\\E|A?bBFv@Ft@Nv@RbFlB`@P`BbAx@ZtAv@nCpAxAb@fATfANfAHhCBlBMzEQp@InBE|@KvAC|AKlAMJ@rCG~BAnDHjCNt@FjDb@tB^VDh@T~A\\jH~BbANrBI~@ShC_Ax@Ut@W|@a@f@QdBeAVB`@EbB}@j@O`Ae@p@U\\GF?b@HdAf@dBdAbB~@JHBP\\Z\\FTHn@\\j@`@d@PtB`@\\NXDl@Pf@RLJx@NbAj@fAv@`CxAfAt@\\XtAr@t@d@b@Pt@f@bAh@`Bt@`@FrAb@j@JJJz@^NLZPNNF?t@TBDBd@Hb@f@rAhAjANTBFAFr@l@XPJZHLVp@r@z@j@z@VVb@ZpExFbAhAPL`@FhAI`@Fb@AjAKlAUzCWv@CNFDHDV?^FNJLPFF@t@GJ@JDNR@JJxCFjAAJFnCLvBFX@t@HnAAfAPdE?dAj@vFXfCB`@T~@\\p@bA|@~BvAx@nAXNf@d@",
+        "resource_state": 3,
+        "summary_polyline": "ir~xG_pld@eC_@mC}AUYM[m@cDQaAQ}AUi@o@{KQsEU_DM_AAaAKuAMcEYyDGsGMcAOMe@@SSWg@SIeDz@MC_@g@c@QSe@Ms@m@yD]qAKQ?_@UqA]cA]wAAm@I[Cm@QiAGKUGMWHo@GYo@w@iCoD}A{Aa@o@m@]i@oA[i@iFsFcBuAc@u@e@_@M]UUm@KoFfA{RpDuCvAW\\{AhA_DvC}AzAQ\\q@`@}@EyFwC}@IgJhD{@RqJxDkAVwABeAOgJyCaDs@aC_@wIk@sJ@{WpA{DIsDc@]BsA[{@i@yAi@gDuBaEyCoBeAaDgAkC[uCQwA@}@HyCr@qBr@kHnBsAN{A?{COsHq@uAk@aBwA_K{M}BmCoBkCs@m@o@a@aBc@eB_@eBSiAYUPKdAg@jAPn@hBrChAxCVjABZ@z@Gr@_@dBWn@_@f@Gj@qAvCc@jBWt@e@hCcAlEo@hCe@bCGn@y@bDMrAU~@Ch@Up@q@xAaPtYsDfHqBrCuE~HoC|FiAjBaE~H_AtA[bAmD~FoAlCJS@SsDxHq@~AI`@uAzCgEtH_@\\_@bAeJrNYLkAs@eD}DaByA{@a@_Eu@_@UkAgAWGgChGyB|FcCnF_CtFkIlSM?]i@Zh@NAHMjYgr@R@bBzA~D|@x@^nBdBrCdD~AfAv@m@`CsDtDmG|@eA^{@`DkGbCyFpC_GvC}FvCyEt@w@f@{AbEwHr@{@~FaLz@{AZ]f@kA~AoChHcNxK}RdBoDp@wDzDkRfAeF|AyFzBiFVwABm@AcAYaBgAqCsBeDM_@@]Ta@PSj@MtFl@zAT\\Lp@l@dRpV|@bAr@n@n@\\fA^|BVdB`@tBTv@At@NzBIpHmBbCYxA@`Cf@`Dq@`EFv@FlBb@bFlBbCtA~GdDxAb@nCd@pEL`S_AjDY~GGnDH`EV`HbA`Dx@jH~BbANrBI~@S~IaDdBeAx@AbB}@~CkAd@Gb@HdAf@hEdCJHBP\\Zr@PzA~@d@PlDv@bBp@x@NlG|DdBnAhH|D`Bt@`Dv@fAj@z@n@|@TBDBd@Hb@f@rAhAjANT@NlA~@l@zA~AvBz@r@pExFtAvA`@FhAIdADxCa@rE[TPDv@R\\XHt@GVFNR@JRdFDzCLvBFXJdCAfAPdE?dAdA~JB`@T~@\\p@bA|@nAv@"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": "b8820330",
+    "from_accepted_tag": false,
+    "upload_id_str": "6865543746",
+    "start_latlng": [
+        46.20086956769228,
+        6.130415350198746
+    ],
+    "end_latlng": [
+        46.20089010335505,
+        6.129866586998105
+    ],
+    "start_latitude": 46.20086956769228,
+    "start_longitude": 6.129866586998105,
+    "average_speed": 5.077,
+    "max_speed": 11.038,
+    "average_cadence": 70.0,
+    "average_temp": 6,
+    "average_watts": 74.9,
+    "max_watts": 588,
+    "weighted_average_watts": 96,
+    "kilojoules": 358.7,
+    "device_watts": true,
+    "has_heartrate": true,
+    "average_heartrate": 90.3,
+    "max_heartrate": 138.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 467.6,
+    "elev_low": 377.2,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "suffer_score": 10.0,
+    "description": null,
+    "calories": 473.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+        {
+            "id": 2912433085968032108,
+            "resource_state": 2,
+            "name": "Rue du Stand",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 97,
+            "moving_time": 95,
+            "start_date": "2022-01-01T14:43:26Z",
+            "start_date_local": "2022-01-01T15:43:26Z",
+            "distance": 461.8,
+            "start_index": 39,
+            "end_index": 136,
+            "average_cadence": 62.3,
+            "device_watts": true,
+            "average_watts": 69.7,
+            "average_heartrate": 92.5,
+            "max_heartrate": 103.0,
+            "segment": {
+                "id": 8779661,
+                "resource_state": 2,
+                "name": "Rue du Stand",
+                "activity_type": "Ride",
+                "distance": 461.8,
+                "average_grade": 1.0,
+                "maximum_grade": 6.7,
+                "elevation_high": 383.2,
+                "elevation_low": 374.0,
+                "start_latlng": [
+                    46.202624,
+                    6.131756
+                ],
+                "end_latlng": [
+                    46.20335,
+                    6.137527
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.202624,
+                "start_longitude": 6.131756,
+                "end_latitude": 46.20335,
+                "end_longitude": 6.137527,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967034732,
+            "resource_state": 2,
+            "name": "Quai des Bergues",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 153,
+            "moving_time": 115,
+            "start_date": "2022-01-01T14:47:03Z",
+            "start_date_local": "2022-01-01T15:47:03Z",
+            "distance": 382.8,
+            "start_index": 256,
+            "end_index": 373,
+            "average_cadence": 19.1,
+            "device_watts": true,
+            "average_watts": 23.4,
+            "average_heartrate": 77.7,
+            "max_heartrate": 92.0,
+            "segment": {
+                "id": 25593694,
+                "resource_state": 2,
+                "name": "Quai des Bergues",
+                "activity_type": "Ride",
+                "distance": 382.8,
+                "average_grade": 0.0,
+                "maximum_grade": 1.4,
+                "elevation_high": 375.4,
+                "elevation_low": 374.0,
+                "start_latlng": [
+                    46.205616,
+                    6.142281
+                ],
+                "end_latlng": [
+                    46.2068,
+                    6.146926
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.205616,
+                "start_longitude": 6.142281,
+                "end_latitude": 46.2068,
+                "end_longitude": 6.146926,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085965024620,
+            "resource_state": 2,
+            "name": "R1",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 91,
+            "moving_time": 91,
+            "start_date": "2022-01-01T14:47:53Z",
+            "start_date_local": "2022-01-01T15:47:53Z",
+            "distance": 310.0,
+            "start_index": 270,
+            "end_index": 361,
+            "average_cadence": 28.7,
+            "device_watts": true,
+            "average_watts": 32.4,
+            "average_heartrate": 81.0,
+            "max_heartrate": 92.0,
+            "segment": {
+                "id": 7070622,
+                "resource_state": 2,
+                "name": "R1",
+                "activity_type": "Ride",
+                "distance": 310.0,
+                "average_grade": 1.5,
+                "maximum_grade": 7.1,
+                "elevation_high": 383.2,
+                "elevation_low": 376.9,
+                "start_latlng": [
+                    46.205672,
+                    6.142823
+                ],
+                "end_latlng": [
+                    46.206711,
+                    6.146528
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.205672,
+                "start_longitude": 6.142823,
+                "end_latitude": 46.206711,
+                "end_longitude": 6.146528,
+                "climb_category": 0,
+                "city": "Geneva",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966905708,
+            "resource_state": 2,
+            "name": "Quai des Bergues - Rue de Lausanne (TP)",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 308,
+            "moving_time": 308,
+            "start_date": "2022-01-01T14:51:37Z",
+            "start_date_local": "2022-01-01T15:51:37Z",
+            "distance": 1492.3,
+            "start_index": 414,
+            "end_index": 722,
+            "average_cadence": 66.2,
+            "device_watts": true,
+            "average_watts": 80.7,
+            "average_heartrate": 93.1,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 30012194,
+                "resource_state": 2,
+                "name": "Quai des Bergues - Rue de Lausanne (TP)",
+                "activity_type": "Ride",
+                "distance": 1492.3,
+                "average_grade": 0.3,
+                "maximum_grade": 6.0,
+                "elevation_high": 382.6,
+                "elevation_low": 375.8,
+                "start_latlng": [
+                    46.20716,
+                    6.148128
+                ],
+                "end_latlng": [
+                    46.218855,
+                    6.149255
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.20716,
+                "start_longitude": 6.148128,
+                "end_latitude": 46.218855,
+                "end_longitude": 6.149255,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085966606700,
+            "resource_state": 2,
+            "name": "Quai Wilson Northbound",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 110,
+            "moving_time": 110,
+            "start_date": "2022-01-01T14:51:40Z",
+            "start_date_local": "2022-01-01T15:51:40Z",
+            "distance": 573.0,
+            "start_index": 417,
+            "end_index": 527,
+            "average_cadence": 65.3,
+            "device_watts": true,
+            "average_watts": 70.5,
+            "average_heartrate": 92.1,
+            "max_heartrate": 97.0,
+            "segment": {
+                "id": 12937906,
+                "resource_state": 2,
+                "name": "Quai Wilson Northbound",
+                "activity_type": "Ride",
+                "distance": 573.0,
+                "average_grade": 0.5,
+                "maximum_grade": 1.3,
+                "elevation_high": 380.2,
+                "elevation_low": 376.9,
+                "start_latlng": [
+                    46.207283,
+                    6.148173
+                ],
+                "end_latlng": [
+                    46.21138,
+                    6.152676
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.207283,
+                "start_longitude": 6.148173,
+                "end_latitude": 46.21138,
+                "end_longitude": 6.152676,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085965449580,
+            "resource_state": 2,
+            "name": "Quai des Bergues - Route de Lausanne",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 293,
+            "moving_time": 293,
+            "start_date": "2022-01-01T14:51:41Z",
+            "start_date_local": "2022-01-01T15:51:41Z",
+            "distance": 1434.1,
+            "start_index": 418,
+            "end_index": 711,
+            "average_cadence": 68.0,
+            "device_watts": true,
+            "average_watts": 84.0,
+            "average_heartrate": 92.9,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 24754336,
+                "resource_state": 2,
+                "name": "Quai des Bergues - Route de Lausanne",
+                "activity_type": "Ride",
+                "distance": 1434.1,
+                "average_grade": 0.4,
+                "maximum_grade": 4.5,
+                "elevation_high": 384.0,
+                "elevation_low": 376.0,
+                "start_latlng": [
+                    46.207358,
+                    6.148148
+                ],
+                "end_latlng": [
+                    46.218633,
+                    6.149415
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.207358,
+                "start_longitude": 6.148148,
+                "end_latitude": 46.218633,
+                "end_longitude": 6.149415,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966903660,
+            "resource_state": 2,
+            "name": "Velosophe Sprint to Reposoir",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 428,
+            "moving_time": 418,
+            "start_date": "2022-01-01T14:53:49Z",
+            "start_date_local": "2022-01-01T15:53:49Z",
+            "distance": 2283.6,
+            "start_index": 546,
+            "end_index": 968,
+            "average_cadence": 58.5,
+            "device_watts": true,
+            "average_watts": 70.8,
+            "average_heartrate": 90.7,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 4173209,
+                "resource_state": 2,
+                "name": "Velosophe Sprint to Reposoir",
+                "activity_type": "Ride",
+                "distance": 2283.6,
+                "average_grade": 0.2,
+                "maximum_grade": 6.0,
+                "elevation_high": 392.8,
+                "elevation_low": 378.4,
+                "start_latlng": [
+                    46.211978,
+                    6.152783
+                ],
+                "end_latlng": [
+                    46.231493,
+                    6.149549
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.211978,
+                "start_longitude": 6.152783,
+                "end_latitude": 46.231493,
+                "end_longitude": 6.149549,
+                "climb_category": 0,
+                "city": "Geneva",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085968322924,
+            "resource_state": 2,
+            "name": "Mon Repos - Agip",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 440,
+            "moving_time": 430,
+            "start_date": "2022-01-01T14:55:21Z",
+            "start_date_local": "2022-01-01T15:55:21Z",
+            "distance": 2396.8,
+            "start_index": 638,
+            "end_index": 1072,
+            "average_cadence": 57.0,
+            "device_watts": true,
+            "average_watts": 72.0,
+            "average_heartrate": 91.3,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 12716620,
+                "resource_state": 2,
+                "name": "Mon Repos - Agip",
+                "activity_type": "Ride",
+                "distance": 2396.8,
+                "average_grade": 0.4,
+                "maximum_grade": 9.6,
+                "elevation_high": 392.5,
+                "elevation_low": 375.8,
+                "start_latlng": [
+                    46.216232,
+                    6.151455
+                ],
+                "end_latlng": [
+                    46.236767,
+                    6.149083
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.216232,
+                "start_longitude": 6.151455,
+                "end_latitude": 46.236767,
+                "end_longitude": 6.149083,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966784876,
+            "resource_state": 2,
+            "name": "Parc Mon Repos",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 136,
+            "moving_time": 126,
+            "start_date": "2022-01-01T14:55:28Z",
+            "start_date_local": "2022-01-01T15:55:28Z",
+            "distance": 532.4,
+            "start_index": 645,
+            "end_index": 775,
+            "average_cadence": 60.4,
+            "device_watts": true,
+            "average_watts": 104.6,
+            "average_heartrate": 97.8,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 8630104,
+                "resource_state": 2,
+                "name": "Parc Mon Repos",
+                "activity_type": "Ride",
+                "distance": 532.4,
+                "average_grade": 2.3,
+                "maximum_grade": 9.8,
+                "elevation_high": 390.0,
+                "elevation_low": 377.5,
+                "start_latlng": [
+                    46.21655,
+                    6.151331
+                ],
+                "end_latlng": [
+                    46.220756,
+                    6.150032
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.21655,
+                "start_longitude": 6.151331,
+                "end_latitude": 46.220756,
+                "end_longitude": 6.150032,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085965518188,
+            "resource_state": 2,
+            "name": "Parc Moynier-Chemins des Cornillons: the piste cyclable of DEATH",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 325,
+            "moving_time": 325,
+            "start_date": "2022-01-01T14:57:16Z",
+            "start_date_local": "2022-01-01T15:57:16Z",
+            "distance": 1976.3,
+            "start_index": 747,
+            "end_index": 1072,
+            "average_cadence": 57.8,
+            "device_watts": true,
+            "average_watts": 62.4,
+            "average_heartrate": 89.4,
+            "max_heartrate": 103.0,
+            "segment": {
+                "id": 19896443,
+                "resource_state": 2,
+                "name": "Parc Moynier-Chemins des Cornillons: the piste cyclable of DEATH",
+                "activity_type": "Ride",
+                "distance": 1976.3,
+                "average_grade": -0.1,
+                "maximum_grade": 3.0,
+                "elevation_high": 398.2,
+                "elevation_low": 390.4,
+                "start_latlng": [
+                    46.219477,
+                    6.149343
+                ],
+                "end_latlng": [
+                    46.236805,
+                    6.149093
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.219477,
+                "start_longitude": 6.149343,
+                "end_latitude": 46.236805,
+                "end_longitude": 6.149093,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085965852012,
+            "resource_state": 2,
+            "name": "WTO sprint",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 119,
+            "moving_time": 119,
+            "start_date": "2022-01-01T14:57:49Z",
+            "start_date_local": "2022-01-01T15:57:49Z",
+            "distance": 782.4,
+            "start_index": 780,
+            "end_index": 899,
+            "average_cadence": 39.2,
+            "device_watts": true,
+            "average_watts": 33.5,
+            "average_heartrate": 84.8,
+            "max_heartrate": 102.0,
+            "segment": {
+                "id": 8416657,
+                "resource_state": 2,
+                "name": "WTO sprint",
+                "activity_type": "Ride",
+                "distance": 782.4,
+                "average_grade": -0.9,
+                "maximum_grade": 0.0,
+                "elevation_high": 377.0,
+                "elevation_low": 370.0,
+                "start_latlng": [
+                    46.220962,
+                    6.14991
+                ],
+                "end_latlng": [
+                    46.227685,
+                    6.148867
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.220962,
+                "start_longitude": 6.14991,
+                "end_latitude": 46.227685,
+                "end_longitude": 6.148867,
+                "climb_category": 0,
+                "city": "Geneva",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966006636,
+            "resource_state": 2,
+            "name": "CyclingCols - WTC to Bellevue",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 647,
+            "moving_time": 647,
+            "start_date": "2022-01-01T14:58:48Z",
+            "start_date_local": "2022-01-01T15:58:48Z",
+            "distance": 3878.5,
+            "start_index": 839,
+            "end_index": 1486,
+            "average_cadence": 58.8,
+            "device_watts": true,
+            "average_watts": 67.9,
+            "average_heartrate": 87.9,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 7520964,
+                "resource_state": 2,
+                "name": "CyclingCols - WTC to Bellevue",
+                "activity_type": "Ride",
+                "distance": 3878.5,
+                "average_grade": -0.2,
+                "maximum_grade": 10.1,
+                "elevation_high": 386.3,
+                "elevation_low": 375.5,
+                "start_latlng": [
+                    46.224253,
+                    6.148275
+                ],
+                "end_latlng": [
+                    46.257111,
+                    6.156512
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.224253,
+                "start_longitude": 6.148275,
+                "end_latitude": 46.257111,
+                "end_longitude": 6.156512,
+                "climb_category": 0,
+                "city": "Geneva",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964876140,
+            "resource_state": 2,
+            "name": "WTO to Agip | lecerle.cc",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 227,
+            "moving_time": 227,
+            "start_date": "2022-01-01T14:58:49Z",
+            "start_date_local": "2022-01-01T15:58:49Z",
+            "distance": 1362.1,
+            "start_index": 840,
+            "end_index": 1067,
+            "average_cadence": 61.9,
+            "device_watts": true,
+            "average_watts": 68.2,
+            "average_heartrate": 87.5,
+            "max_heartrate": 103.0,
+            "segment": {
+                "id": 16177366,
+                "resource_state": 2,
+                "name": "WTO to Agip | lecerle.cc",
+                "activity_type": "Ride",
+                "distance": 1362.1,
+                "average_grade": -0.4,
+                "maximum_grade": 0.9,
+                "elevation_high": 380.2,
+                "elevation_low": 375.2,
+                "start_latlng": [
+                    46.224359,
+                    6.148364
+                ],
+                "end_latlng": [
+                    46.236544,
+                    6.149135
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.224359,
+                "start_longitude": 6.148364,
+                "end_latitude": 46.236544,
+                "end_longitude": 6.149135,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085965344108,
+            "resource_state": 2,
+            "name": "Jardin Botanique - Vengeron",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 395,
+            "moving_time": 395,
+            "start_date": "2022-01-01T14:58:54Z",
+            "start_date_local": "2022-01-01T15:58:54Z",
+            "distance": 2402.0,
+            "start_index": 845,
+            "end_index": 1240,
+            "average_cadence": 60.7,
+            "device_watts": true,
+            "average_watts": 65.3,
+            "average_heartrate": 87.0,
+            "max_heartrate": 103.0,
+            "segment": {
+                "id": 24754350,
+                "resource_state": 2,
+                "name": "Jardin Botanique - Vengeron",
+                "activity_type": "Ride",
+                "distance": 2402.0,
+                "average_grade": -0.1,
+                "maximum_grade": 2.4,
+                "elevation_high": 385.0,
+                "elevation_low": 379.8,
+                "start_latlng": [
+                    46.224646,
+                    6.14822
+                ],
+                "end_latlng": [
+                    46.245699,
+                    6.15197
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.224646,
+                "start_longitude": 6.14822,
+                "end_latitude": 46.245699,
+                "end_longitude": 6.15197,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967502700,
+            "resource_state": 2,
+            "name": "Flamme rouge TDL",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 146,
+            "moving_time": 146,
+            "start_date": "2022-01-01T15:02:33Z",
+            "start_date_local": "2022-01-01T16:02:33Z",
+            "distance": 874.2,
+            "start_index": 1064,
+            "end_index": 1210,
+            "average_cadence": 57.3,
+            "device_watts": true,
+            "average_watts": 58.3,
+            "average_heartrate": 85.1,
+            "max_heartrate": 93.0,
+            "segment": {
+                "id": 20640893,
+                "resource_state": 2,
+                "name": "Flamme rouge TDL",
+                "activity_type": "Ride",
+                "distance": 874.2,
+                "average_grade": -0.4,
+                "maximum_grade": 1.9,
+                "elevation_high": 372.0,
+                "elevation_low": 366.2,
+                "start_latlng": [
+                    46.236385,
+                    6.149179
+                ],
+                "end_latlng": [
+                    46.243848,
+                    6.152107
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.236385,
+                "start_longitude": 6.149179,
+                "end_latitude": 46.243848,
+                "end_longitude": 6.152107,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genf",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964800364,
+            "resource_state": 2,
+            "name": "CyclingCols - Montée de vengeron just q'au feu rouge",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 135,
+            "moving_time": 135,
+            "start_date": "2022-01-01T15:04:22Z",
+            "start_date_local": "2022-01-01T16:04:22Z",
+            "distance": 863.4,
+            "start_index": 1173,
+            "end_index": 1308,
+            "average_cadence": 68.5,
+            "device_watts": true,
+            "average_watts": 90.6,
+            "average_heartrate": 92.1,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 17813162,
+                "resource_state": 2,
+                "name": "CyclingCols - Montée de vengeron just q'au feu rouge",
+                "activity_type": "Ride",
+                "distance": 863.4,
+                "average_grade": -0.2,
+                "maximum_grade": 3.5,
+                "elevation_high": 384.4,
+                "elevation_low": 380.2,
+                "start_latlng": [
+                    46.24163,
+                    6.151146
+                ],
+                "end_latlng": [
+                    46.249147,
+                    6.150874
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.24163,
+                "start_longitude": 6.151146,
+                "end_latitude": 46.249147,
+                "end_longitude": 6.150874,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964820844,
+            "resource_state": 2,
+            "name": "Montée Vengeron",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 82,
+            "moving_time": 82,
+            "start_date": "2022-01-01T15:05:39Z",
+            "start_date_local": "2022-01-01T16:05:39Z",
+            "distance": 473.9,
+            "start_index": 1250,
+            "end_index": 1332,
+            "average_cadence": 59.9,
+            "device_watts": true,
+            "average_watts": 88.2,
+            "average_heartrate": 95.3,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 17743780,
+                "resource_state": 2,
+                "name": "Montée Vengeron",
+                "activity_type": "Ride",
+                "distance": 473.9,
+                "average_grade": 0.8,
+                "maximum_grade": 1.9,
+                "elevation_high": 418.8,
+                "elevation_low": 414.8,
+                "start_latlng": [
+                    46.246257,
+                    6.151679
+                ],
+                "end_latlng": [
+                    46.250459,
+                    6.151107
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.246257,
+                "start_longitude": 6.151679,
+                "end_latitude": 46.250459,
+                "end_longitude": 6.151107,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964579180,
+            "resource_state": 2,
+            "name": "Websters Climb",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 304,
+            "moving_time": 304,
+            "start_date": "2022-01-01T15:10:11Z",
+            "start_date_local": "2022-01-01T16:10:11Z",
+            "distance": 912.5,
+            "start_index": 1522,
+            "end_index": 1826,
+            "average_cadence": 61.4,
+            "device_watts": true,
+            "average_watts": 110.3,
+            "average_heartrate": 96.7,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 7363120,
+                "resource_state": 2,
+                "name": "Websters Climb",
+                "activity_type": "Ride",
+                "distance": 912.5,
+                "average_grade": 3.4,
+                "maximum_grade": 9.5,
+                "elevation_high": 415.1,
+                "elevation_low": 383.7,
+                "start_latlng": [
+                    46.25809,
+                    6.155768
+                ],
+                "end_latlng": [
+                    46.259597,
+                    6.145609
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.25809,
+                "start_longitude": 6.155768,
+                "end_latitude": 46.259597,
+                "end_longitude": 6.145609,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085966343532,
+            "resource_state": 2,
+            "name": "CyclingCols - Websters half climb",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 164,
+            "moving_time": 164,
+            "start_date": "2022-01-01T15:10:17Z",
+            "start_date_local": "2022-01-01T16:10:17Z",
+            "distance": 500.6,
+            "start_index": 1528,
+            "end_index": 1692,
+            "average_cadence": 61.7,
+            "device_watts": true,
+            "average_watts": 119.1,
+            "average_heartrate": 97.9,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 9899411,
+                "resource_state": 2,
+                "name": "CyclingCols - Websters half climb",
+                "activity_type": "Ride",
+                "distance": 500.6,
+                "average_grade": 3.5,
+                "maximum_grade": 6.0,
+                "elevation_high": 395.8,
+                "elevation_low": 378.4,
+                "start_latlng": [
+                    46.257948,
+                    6.155565
+                ],
+                "end_latlng": [
+                    46.258252,
+                    6.150455
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257948,
+                "start_longitude": 6.155565,
+                "end_latitude": 46.258252,
+                "end_longitude": 6.150455,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967906156,
+            "resource_state": 2,
+            "name": "CyclingCols - Route de collex uphilll",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 295,
+            "moving_time": 295,
+            "start_date": "2022-01-01T15:10:20Z",
+            "start_date_local": "2022-01-01T16:10:20Z",
+            "distance": 874.9,
+            "start_index": 1531,
+            "end_index": 1826,
+            "average_cadence": 61.1,
+            "device_watts": true,
+            "average_watts": 110.2,
+            "average_heartrate": 96.9,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 8417438,
+                "resource_state": 2,
+                "name": "CyclingCols - Route de collex uphilll",
+                "activity_type": "Ride",
+                "distance": 874.9,
+                "average_grade": 3.6,
+                "maximum_grade": 9.3,
+                "elevation_high": 415.1,
+                "elevation_low": 383.9,
+                "start_latlng": [
+                    46.257859,
+                    6.155436
+                ],
+                "end_latlng": [
+                    46.25961,
+                    6.145602
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257859,
+                "start_longitude": 6.155436,
+                "end_latitude": 46.25961,
+                "end_longitude": 6.145602,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085967388012,
+            "resource_state": 2,
+            "name": "Bellevue 50km - Ch Marc-Emery",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 736,
+            "moving_time": 693,
+            "start_date": "2022-01-01T15:10:33Z",
+            "start_date_local": "2022-01-01T16:10:33Z",
+            "distance": 2580.0,
+            "start_index": 1544,
+            "end_index": 2247,
+            "average_cadence": 58.4,
+            "device_watts": true,
+            "average_watts": 89.1,
+            "average_heartrate": 93.9,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 11884173,
+                "resource_state": 2,
+                "name": "Bellevue 50km - Ch Marc-Emery",
+                "activity_type": "Ride",
+                "distance": 2580.0,
+                "average_grade": 1.6,
+                "maximum_grade": 9.7,
+                "elevation_high": 441.4,
+                "elevation_low": 384.7,
+                "start_latlng": [
+                    46.257554,
+                    6.154954
+                ],
+                "end_latlng": [
+                    46.270144,
+                    6.128499
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257554,
+                "start_longitude": 6.154954,
+                "end_latitude": 46.270144,
+                "end_longitude": 6.128499,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964367212,
+            "resource_state": 2,
+            "name": "Côte route de Collex jusqu'au rond point",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 250,
+            "moving_time": 250,
+            "start_date": "2022-01-01T15:11:10Z",
+            "start_date_local": "2022-01-01T16:11:10Z",
+            "distance": 691.9,
+            "start_index": 1581,
+            "end_index": 1831,
+            "average_cadence": 59.2,
+            "device_watts": true,
+            "average_watts": 110.2,
+            "average_heartrate": 97.3,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 8825437,
+                "resource_state": 2,
+                "name": "Côte route de Collex jusqu'au rond point",
+                "activity_type": "Ride",
+                "distance": 691.9,
+                "average_grade": 3.8,
+                "maximum_grade": 9.3,
+                "elevation_high": 415.5,
+                "elevation_low": 389.4,
+                "start_latlng": [
+                    46.257022,
+                    6.153431
+                ],
+                "end_latlng": [
+                    46.259701,
+                    6.145453
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257022,
+                "start_longitude": 6.153431,
+                "end_latitude": 46.259701,
+                "end_longitude": 6.145453,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085968197996,
+            "resource_state": 2,
+            "name": "Côte route de Collex complète",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 459,
+            "moving_time": 459,
+            "start_date": "2022-01-01T15:11:10Z",
+            "start_date_local": "2022-01-01T16:11:10Z",
+            "distance": 1393.3,
+            "start_index": 1581,
+            "end_index": 2040,
+            "average_cadence": 61.1,
+            "device_watts": true,
+            "average_watts": 102.8,
+            "average_heartrate": 95.3,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 8825427,
+                "resource_state": 2,
+                "name": "Côte route de Collex complète",
+                "activity_type": "Ride",
+                "distance": 1393.3,
+                "average_grade": 3.4,
+                "maximum_grade": 9.8,
+                "elevation_high": 436.8,
+                "elevation_low": 389.4,
+                "start_latlng": [
+                    46.257022,
+                    6.153431
+                ],
+                "end_latlng": [
+                    46.263824,
+                    6.13865
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257022,
+                "start_longitude": 6.153431,
+                "end_latitude": 46.263824,
+                "end_longitude": 6.13865,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085967169900,
+            "resource_state": 2,
+            "name": "Côte route de Collex - partie montée franche",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 308,
+            "moving_time": 308,
+            "start_date": "2022-01-01T15:11:10Z",
+            "start_date_local": "2022-01-01T16:11:10Z",
+            "distance": 859.7,
+            "start_index": 1581,
+            "end_index": 1889,
+            "average_cadence": 59.3,
+            "device_watts": true,
+            "average_watts": 112.2,
+            "average_heartrate": 97.2,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 8825571,
+                "resource_state": 2,
+                "name": "Côte route de Collex - partie montée franche",
+                "activity_type": "Ride",
+                "distance": 859.7,
+                "average_grade": 4.4,
+                "maximum_grade": 9.8,
+                "elevation_high": 427.6,
+                "elevation_low": 389.4,
+                "start_latlng": [
+                    46.257022,
+                    6.153431
+                ],
+                "end_latlng": [
+                    46.260568,
+                    6.143698
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257022,
+                "start_longitude": 6.153431,
+                "end_latitude": 46.260568,
+                "end_longitude": 6.143698,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085967249772,
+            "resource_state": 2,
+            "name": "CyclingCols - Route de Collex climb Part 2",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 128,
+            "moving_time": 128,
+            "start_date": "2022-01-01T15:13:14Z",
+            "start_date_local": "2022-01-01T16:13:14Z",
+            "distance": 380.5,
+            "start_index": 1705,
+            "end_index": 1833,
+            "average_cadence": 59.2,
+            "device_watts": true,
+            "average_watts": 100.8,
+            "average_heartrate": 95.5,
+            "max_heartrate": 104.0,
+            "segment": {
+                "id": 10688851,
+                "resource_state": 2,
+                "name": "CyclingCols - Route de Collex climb Part 2",
+                "activity_type": "Ride",
+                "distance": 380.5,
+                "average_grade": 2.8,
+                "maximum_grade": 7.8,
+                "elevation_high": 415.4,
+                "elevation_low": 401.8,
+                "start_latlng": [
+                    46.258333,
+                    6.149906
+                ],
+                "end_latlng": [
+                    46.25965,
+                    6.145406
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.258333,
+                "start_longitude": 6.149906,
+                "end_latitude": 46.25965,
+                "end_longitude": 6.145406,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967738220,
+            "resource_state": 2,
+            "name": "CyclingCols - Route de collex",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 278,
+            "moving_time": 278,
+            "start_date": "2022-01-01T15:15:39Z",
+            "start_date_local": "2022-01-01T16:15:39Z",
+            "distance": 1239.0,
+            "start_index": 1850,
+            "end_index": 2128,
+            "average_cadence": 66.7,
+            "device_watts": true,
+            "average_watts": 81.3,
+            "average_heartrate": 91.2,
+            "max_heartrate": 101.0,
+            "segment": {
+                "id": 8341359,
+                "resource_state": 2,
+                "name": "CyclingCols - Route de collex",
+                "activity_type": "Ride",
+                "distance": 1239.0,
+                "average_grade": 0.2,
+                "maximum_grade": 8.8,
+                "elevation_high": 441.4,
+                "elevation_low": 420.1,
+                "start_latlng": [
+                    46.259917,
+                    6.144814
+                ],
+                "end_latlng": [
+                    46.267365,
+                    6.13305
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.259917,
+                "start_longitude": 6.144814,
+                "end_latitude": 46.267365,
+                "end_longitude": 6.13305,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085968056684,
+            "resource_state": 2,
+            "name": "Sous-Rosière",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 246,
+            "moving_time": 170,
+            "start_date": "2022-01-01T15:26:46Z",
+            "start_date_local": "2022-01-01T16:26:46Z",
+            "distance": 736.9,
+            "start_index": 2484,
+            "end_index": 2656,
+            "average_cadence": 68.5,
+            "device_watts": true,
+            "average_watts": 101.6,
+            "average_heartrate": 98.6,
+            "max_heartrate": 127.0,
+            "segment": {
+                "id": 21457358,
+                "resource_state": 2,
+                "name": "Sous-Rosière",
+                "activity_type": "Ride",
+                "distance": 736.9,
+                "average_grade": 1.9,
+                "maximum_grade": 7.4,
+                "elevation_high": 455.2,
+                "elevation_low": 439.3,
+                "start_latlng": [
+                    46.277636,
+                    6.125282
+                ],
+                "end_latlng": [
+                    46.281571,
+                    6.117578
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.277636,
+                "start_longitude": 6.125282,
+                "end_latitude": 46.281571,
+                "end_longitude": 6.117578,
+                "climb_category": 0,
+                "city": "Collex-Bossy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964446060,
+            "resource_state": 2,
+            "name": "Collex-Bossy to Bellevue",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 444,
+            "moving_time": 442,
+            "start_date": "2022-01-01T16:13:33Z",
+            "start_date_local": "2022-01-01T17:13:33Z",
+            "distance": 2931.0,
+            "start_index": 2905,
+            "end_index": 3348,
+            "average_cadence": 80.3,
+            "device_watts": true,
+            "average_watts": 80.5,
+            "average_heartrate": 93.5,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 30200805,
+                "resource_state": 2,
+                "name": "Collex-Bossy to Bellevue",
+                "activity_type": "Ride",
+                "distance": 2931.0,
+                "average_grade": -1.3,
+                "maximum_grade": 2.5,
+                "elevation_high": 434.1,
+                "elevation_low": 394.9,
+                "start_latlng": [
+                    46.273699,
+                    6.122949
+                ],
+                "end_latlng": [
+                    46.25731,
+                    6.152281
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.273699,
+                "start_longitude": 6.122949,
+                "end_latitude": 46.25731,
+                "end_longitude": 6.152281,
+                "climb_category": 0,
+                "city": "Collex-Bossy",
+                "state": "Genf",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964523884,
+            "resource_state": 2,
+            "name": "CyclingCols - Route de Collex downhill (shorter)",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 186,
+            "moving_time": 186,
+            "start_date": "2022-01-01T16:16:13Z",
+            "start_date_local": "2022-01-01T17:16:13Z",
+            "distance": 1185.6,
+            "start_index": 3065,
+            "end_index": 3251,
+            "average_cadence": 91.6,
+            "device_watts": true,
+            "average_watts": 100.0,
+            "average_heartrate": 97.1,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 10722066,
+                "resource_state": 2,
+                "name": "CyclingCols - Route de Collex downhill (shorter)",
+                "activity_type": "Ride",
+                "distance": 1185.6,
+                "average_grade": -0.4,
+                "maximum_grade": 2.2,
+                "elevation_high": 424.2,
+                "elevation_low": 414.2,
+                "start_latlng": [
+                    46.267474,
+                    6.132887
+                ],
+                "end_latlng": [
+                    46.260262,
+                    6.144202
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.267474,
+                "start_longitude": 6.132887,
+                "end_latitude": 46.260262,
+                "end_longitude": 6.144202,
+                "climb_category": 0,
+                "city": "Collex-Bossy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085967381868,
+            "resource_state": 2,
+            "name": "CyclingCols - Route de collex downhill",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 186,
+            "moving_time": 186,
+            "start_date": "2022-01-01T16:16:19Z",
+            "start_date_local": "2022-01-01T17:16:19Z",
+            "distance": 1203.9,
+            "start_index": 3071,
+            "end_index": 3257,
+            "average_cadence": 91.5,
+            "device_watts": true,
+            "average_watts": 99.9,
+            "average_heartrate": 97.2,
+            "max_heartrate": 108.0,
+            "segment": {
+                "id": 8529108,
+                "resource_state": 2,
+                "name": "CyclingCols - Route de collex downhill",
+                "activity_type": "Ride",
+                "distance": 1203.9,
+                "average_grade": -0.1,
+                "maximum_grade": 8.2,
+                "elevation_high": 441.4,
+                "elevation_low": 421.4,
+                "start_latlng": [
+                    46.267232,
+                    6.133222
+                ],
+                "end_latlng": [
+                    46.259956,
+                    6.14464
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.267232,
+                "start_longitude": 6.133222,
+                "end_latitude": 46.259956,
+                "end_longitude": 6.14464,
+                "climb_category": 0,
+                "city": "Collex-Bossy",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967893868,
+            "resource_state": 2,
+            "name": "Route de Collex drop",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 108,
+            "moving_time": 108,
+            "start_date": "2022-01-01T16:19:46Z",
+            "start_date_local": "2022-01-01T17:19:46Z",
+            "distance": 891.2,
+            "start_index": 3278,
+            "end_index": 3385,
+            "average_cadence": 93.8,
+            "device_watts": true,
+            "average_watts": 74.9,
+            "average_heartrate": 95.9,
+            "max_heartrate": 100.0,
+            "segment": {
+                "id": 7362593,
+                "resource_state": 2,
+                "name": "Route de Collex drop",
+                "activity_type": "Ride",
+                "distance": 891.2,
+                "average_grade": -4.2,
+                "maximum_grade": -2.0,
+                "elevation_high": 466.4,
+                "elevation_low": 429.2,
+                "start_latlng": [
+                    46.259553,
+                    6.145545
+                ],
+                "end_latlng": [
+                    46.257986,
+                    6.155597
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.259553,
+                "start_longitude": 6.145545,
+                "end_latitude": 46.257986,
+                "end_longitude": 6.155597,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085965864300,
+            "resource_state": 2,
+            "name": "RDP Bellevue | Tuileries",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 154,
+            "moving_time": 154,
+            "start_date": "2022-01-01T16:21:46Z",
+            "start_date_local": "2022-01-01T17:21:46Z",
+            "distance": 990.9,
+            "start_index": 3397,
+            "end_index": 3551,
+            "average_cadence": 73.8,
+            "device_watts": true,
+            "average_watts": 91.1,
+            "average_heartrate": 93.3,
+            "max_heartrate": 103.0,
+            "segment": {
+                "id": 14275408,
+                "resource_state": 2,
+                "name": "RDP Bellevue | Tuileries",
+                "activity_type": "Ride",
+                "distance": 990.9,
+                "average_grade": -0.1,
+                "maximum_grade": 0.9,
+                "elevation_high": 352.8,
+                "elevation_low": 350.2,
+                "start_latlng": [
+                    46.257798,
+                    6.156405
+                ],
+                "end_latlng": [
+                    46.250116,
+                    6.150801
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.257798,
+                "start_longitude": 6.156405,
+                "end_latitude": 46.250116,
+                "end_longitude": 6.150801,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966941548,
+            "resource_state": 2,
+            "name": "Bellevue - Jardin Botanique",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 635,
+            "moving_time": 591,
+            "start_date": "2022-01-01T16:22:00Z",
+            "start_date_local": "2022-01-01T17:22:00Z",
+            "distance": 3682.9,
+            "start_index": 3411,
+            "end_index": 4013,
+            "average_cadence": 69.2,
+            "device_watts": true,
+            "average_watts": 87.0,
+            "average_heartrate": 94.6,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 24783443,
+                "resource_state": 2,
+                "name": "Bellevue - Jardin Botanique",
+                "activity_type": "Ride",
+                "distance": 3682.9,
+                "average_grade": 0.0,
+                "maximum_grade": 5.2,
+                "elevation_high": 382.2,
+                "elevation_low": 372.0,
+                "start_latlng": [
+                    46.25689,
+                    6.156163
+                ],
+                "end_latlng": [
+                    46.225337,
+                    6.147783
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.25689,
+                "start_longitude": 6.156163,
+                "end_latitude": 46.225337,
+                "end_longitude": 6.147783,
+                "climb_category": 0,
+                "city": "Genthod",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085965307244,
+            "resource_state": 2,
+            "name": "Vangeron - WTO",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 445,
+            "moving_time": 432,
+            "start_date": "2022-01-01T16:25:20Z",
+            "start_date_local": "2022-01-01T17:25:20Z",
+            "distance": 2751.5,
+            "start_index": 3585,
+            "end_index": 4023,
+            "average_cadence": 74.1,
+            "device_watts": true,
+            "average_watts": 91.5,
+            "average_heartrate": 95.8,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 12716934,
+                "resource_state": 2,
+                "name": "Vangeron - WTO",
+                "activity_type": "Ride",
+                "distance": 2751.5,
+                "average_grade": -0.0,
+                "maximum_grade": 4.8,
+                "elevation_high": 388.9,
+                "elevation_low": 379.6,
+                "start_latlng": [
+                    46.249016,
+                    6.150589
+                ],
+                "end_latlng": [
+                    46.224854,
+                    6.147938
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.249016,
+                "start_longitude": 6.150589,
+                "end_latitude": 46.224854,
+                "end_longitude": 6.147938,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085965035884,
+            "resource_state": 2,
+            "name": "CyclingCols - Bellevue to Geneve",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 445,
+            "moving_time": 432,
+            "start_date": "2022-01-01T16:25:22Z",
+            "start_date_local": "2022-01-01T17:25:22Z",
+            "distance": 2766.6,
+            "start_index": 3587,
+            "end_index": 4025,
+            "average_cadence": 73.8,
+            "device_watts": true,
+            "average_watts": 91.1,
+            "average_heartrate": 95.8,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 8341338,
+                "resource_state": 2,
+                "name": "CyclingCols - Bellevue to Geneve",
+                "activity_type": "Ride",
+                "distance": 2766.6,
+                "average_grade": -0.0,
+                "maximum_grade": 5.1,
+                "elevation_high": 388.8,
+                "elevation_low": 379.5,
+                "start_latlng": [
+                    46.248949,
+                    6.15065
+                ],
+                "end_latlng": [
+                    46.224735,
+                    6.147937
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.248949,
+                "start_longitude": 6.15065,
+                "end_latitude": 46.224735,
+                "end_longitude": 6.147937,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085964604780,
+            "resource_state": 2,
+            "name": "sprint Bellevue-Genève",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 436,
+            "moving_time": 423,
+            "start_date": "2022-01-01T16:25:34Z",
+            "start_date_local": "2022-01-01T17:25:34Z",
+            "distance": 2712.99,
+            "start_index": 3599,
+            "end_index": 4028,
+            "average_cadence": 73.6,
+            "device_watts": true,
+            "average_watts": 90.8,
+            "average_heartrate": 95.8,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 1968351,
+                "resource_state": 2,
+                "name": "sprint Bellevue-Genève",
+                "activity_type": "Ride",
+                "distance": 2712.99,
+                "average_grade": -0.1,
+                "maximum_grade": 2.4,
+                "elevation_high": 379.2,
+                "elevation_low": 370.2,
+                "start_latlng": [
+                    46.24847584404051,
+                    6.150654377415776
+                ],
+                "end_latlng": [
+                    46.22463469393551,
+                    6.147979460656643
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.24847584404051,
+                "start_longitude": 6.150654377415776,
+                "end_latitude": 46.22463469393551,
+                "end_longitude": 6.147979460656643,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085966099820,
+            "resource_state": 2,
+            "name": "Power Roll",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 118,
+            "moving_time": 113,
+            "start_date": "2022-01-01T16:26:05Z",
+            "start_date_local": "2022-01-01T17:26:05Z",
+            "distance": 714.6,
+            "start_index": 3630,
+            "end_index": 3746,
+            "average_cadence": 81.4,
+            "device_watts": true,
+            "average_watts": 151.7,
+            "average_heartrate": 109.2,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 4444170,
+                "resource_state": 2,
+                "name": "Power Roll",
+                "activity_type": "Ride",
+                "distance": 714.6,
+                "average_grade": 0.6,
+                "maximum_grade": 4.9,
+                "elevation_high": 366.2,
+                "elevation_low": 357.4,
+                "start_latlng": [
+                    46.246717,
+                    6.151256
+                ],
+                "end_latlng": [
+                    46.240497,
+                    6.149998
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.246717,
+                "start_longitude": 6.151256,
+                "end_latitude": 46.240497,
+                "end_longitude": 6.149998,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967930732,
+            "resource_state": 2,
+            "name": "Ca sent l'écurie! VBB",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 58,
+            "moving_time": 58,
+            "start_date": "2022-01-01T16:26:05Z",
+            "start_date_local": "2022-01-01T17:26:05Z",
+            "distance": 460.9,
+            "start_index": 3630,
+            "end_index": 3688,
+            "average_cadence": 96.1,
+            "device_watts": true,
+            "average_watts": 219.4,
+            "average_heartrate": 104.1,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 5337592,
+                "resource_state": 2,
+                "name": "Ca sent l'écurie! VBB",
+                "activity_type": "Ride",
+                "distance": 460.9,
+                "average_grade": 0.4,
+                "maximum_grade": 4.6,
+                "elevation_high": 384.2,
+                "elevation_low": 376.4,
+                "start_latlng": [
+                    46.246693,
+                    6.151266
+                ],
+                "end_latlng": [
+                    46.242611,
+                    6.151061
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.246693,
+                "start_longitude": 6.151266,
+                "end_latitude": 46.242611,
+                "end_longitude": 6.151061,
+                "climb_category": 0,
+                "city": "Bellevue",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966348652,
+            "resource_state": 2,
+            "name": "Bellevue - feux palais des nations",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 405,
+            "moving_time": 392,
+            "start_date": "2022-01-01T16:26:09Z",
+            "start_date_local": "2022-01-01T17:26:09Z",
+            "distance": 2485.3,
+            "start_index": 3634,
+            "end_index": 4032,
+            "average_cadence": 73.0,
+            "device_watts": true,
+            "average_watts": 93.4,
+            "average_heartrate": 96.6,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 9645255,
+                "resource_state": 2,
+                "name": "Bellevue - feux palais des nations",
+                "activity_type": "Ride",
+                "distance": 2485.3,
+                "average_grade": 0.1,
+                "maximum_grade": 10.9,
+                "elevation_high": -15.0,
+                "elevation_low": -22.0,
+                "start_latlng": [
+                    46.246363,
+                    6.151323
+                ],
+                "end_latlng": [
+                    46.224514,
+                    6.148057
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.246363,
+                "start_longitude": 6.151323,
+                "end_latitude": 46.224514,
+                "end_longitude": 6.148057,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966588268,
+            "resource_state": 2,
+            "name": "Sprint up!",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 66,
+            "moving_time": 61,
+            "start_date": "2022-01-01T16:26:18Z",
+            "start_date_local": "2022-01-01T17:26:18Z",
+            "distance": 404.1,
+            "start_index": 3643,
+            "end_index": 3707,
+            "average_cadence": 79.4,
+            "device_watts": true,
+            "average_watts": 186.8,
+            "average_heartrate": 114.4,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 16307369,
+                "resource_state": 2,
+                "name": "Sprint up!",
+                "activity_type": "Ride",
+                "distance": 404.1,
+                "average_grade": 1.2,
+                "maximum_grade": 3.1,
+                "elevation_high": 398.0,
+                "elevation_low": 391.0,
+                "start_latlng": [
+                    46.245695,
+                    6.151281
+                ],
+                "end_latlng": [
+                    46.242122,
+                    6.150878
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.245695,
+                "start_longitude": 6.151281,
+                "end_latitude": 46.242122,
+                "end_longitude": 6.150878,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085965577580,
+            "resource_state": 2,
+            "name": "Montée Plage de Pregny-Chambésy",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 56,
+            "moving_time": 51,
+            "start_date": "2022-01-01T16:26:27Z",
+            "start_date_local": "2022-01-01T17:26:27Z",
+            "distance": 328.5,
+            "start_index": 3652,
+            "end_index": 3706,
+            "average_cadence": 77.5,
+            "device_watts": true,
+            "average_watts": 206.9,
+            "average_heartrate": 119.2,
+            "max_heartrate": 138.0,
+            "segment": {
+                "id": 24783447,
+                "resource_state": 2,
+                "name": "Montée Plage de Pregny-Chambésy",
+                "activity_type": "Ride",
+                "distance": 328.5,
+                "average_grade": 2.4,
+                "maximum_grade": 3.9,
+                "elevation_high": 380.0,
+                "elevation_low": 372.0,
+                "start_latlng": [
+                    46.245087,
+                    6.15108
+                ],
+                "end_latlng": [
+                    46.24218,
+                    6.150925
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.245087,
+                "start_longitude": 6.15108,
+                "end_latitude": 46.24218,
+                "end_longitude": 6.150925,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genf",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964765548,
+            "resource_state": 2,
+            "name": "Butter road!",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 61,
+            "moving_time": 61,
+            "start_date": "2022-01-01T16:29:29Z",
+            "start_date_local": "2022-01-01T17:29:29Z",
+            "distance": 414.6,
+            "start_index": 3827,
+            "end_index": 3888,
+            "average_cadence": 82.6,
+            "device_watts": true,
+            "average_watts": 72.5,
+            "average_heartrate": 91.2,
+            "max_heartrate": 94.0,
+            "segment": {
+                "id": 23878518,
+                "resource_state": 2,
+                "name": "Butter road!",
+                "activity_type": "Ride",
+                "distance": 414.6,
+                "average_grade": -0.4,
+                "maximum_grade": 0.0,
+                "elevation_high": 392.2,
+                "elevation_low": 390.4,
+                "start_latlng": [
+                    46.236578,
+                    6.148951
+                ],
+                "end_latlng": [
+                    46.232855,
+                    6.149248
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.236578,
+                "start_longitude": 6.148951,
+                "end_latitude": 46.232855,
+                "end_longitude": 6.149248,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966643564,
+            "resource_state": 2,
+            "name": "Sprint along the transect",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 135,
+            "moving_time": 135,
+            "start_date": "2022-01-01T16:29:30Z",
+            "start_date_local": "2022-01-01T17:29:30Z",
+            "distance": 940.9,
+            "start_index": 3828,
+            "end_index": 3963,
+            "average_cadence": 73.8,
+            "device_watts": true,
+            "average_watts": 66.6,
+            "average_heartrate": 88.5,
+            "max_heartrate": 94.0,
+            "segment": {
+                "id": 8058870,
+                "resource_state": 2,
+                "name": "Sprint along the transect",
+                "activity_type": "Ride",
+                "distance": 940.9,
+                "average_grade": -0.4,
+                "maximum_grade": 3.0,
+                "elevation_high": 372.8,
+                "elevation_low": 367.2,
+                "start_latlng": [
+                    46.236527,
+                    6.148908
+                ],
+                "end_latlng": [
+                    46.228119,
+                    6.148713
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.236527,
+                "start_longitude": 6.148908,
+                "end_latitude": 46.228119,
+                "end_longitude": 6.148713,
+                "climb_category": 0,
+                "city": "Pregny-Chambésy",
+                "state": "Geneva",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085964356972,
+            "resource_state": 2,
+            "name": "flamme rouge Genève",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 153,
+            "moving_time": 153,
+            "start_date": "2022-01-01T16:30:16Z",
+            "start_date_local": "2022-01-01T17:30:16Z",
+            "distance": 1026.42,
+            "start_index": 3874,
+            "end_index": 4027,
+            "average_cadence": 68.9,
+            "device_watts": true,
+            "average_watts": 74.1,
+            "average_heartrate": 90.2,
+            "max_heartrate": 99.0,
+            "segment": {
+                "id": 2340289,
+                "resource_state": 2,
+                "name": "flamme rouge Genève",
+                "activity_type": "Ride",
+                "distance": 1026.42,
+                "average_grade": -0.6,
+                "maximum_grade": 1.6,
+                "elevation_high": 383.0,
+                "elevation_low": 375.0,
+                "start_latlng": [
+                    46.23375873081386,
+                    6.14928787574172
+                ],
+                "end_latlng": [
+                    46.2246716581285,
+                    6.147919949144125
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.23375873081386,
+                "start_longitude": 6.14928787574172,
+                "end_latitude": 46.2246716581285,
+                "end_longitude": 6.147919949144125,
+                "climb_category": 0,
+                "city": "Pregny Chambésy",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085966072172,
+            "resource_state": 2,
+            "name": "CyclingCols - Between two worlds",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 95,
+            "moving_time": 95,
+            "start_date": "2022-01-01T16:33:18Z",
+            "start_date_local": "2022-01-01T17:33:18Z",
+            "distance": 523.0,
+            "start_index": 4056,
+            "end_index": 4151,
+            "average_cadence": 53.6,
+            "device_watts": true,
+            "average_watts": 74.5,
+            "average_heartrate": 88.8,
+            "max_heartrate": 95.0,
+            "segment": {
+                "id": 10728406,
+                "resource_state": 2,
+                "name": "CyclingCols - Between two worlds",
+                "activity_type": "Ride",
+                "distance": 523.0,
+                "average_grade": 0.7,
+                "maximum_grade": 5.3,
+                "elevation_high": 392.1,
+                "elevation_low": 385.6,
+                "start_latlng": [
+                    46.223656,
+                    6.14833
+                ],
+                "end_latlng": [
+                    46.219264,
+                    6.149024
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.223656,
+                "start_longitude": 6.14833,
+                "end_latitude": 46.219264,
+                "end_longitude": 6.149024,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2912433085967346028,
+            "resource_state": 2,
+            "name": "Rue de Lausanne",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 182,
+            "moving_time": 177,
+            "start_date": "2022-01-01T16:35:39Z",
+            "start_date_local": "2022-01-01T17:35:39Z",
+            "distance": 947.824,
+            "start_index": 4173,
+            "end_index": 4351,
+            "average_cadence": 54.0,
+            "device_watts": true,
+            "average_watts": 47.5,
+            "average_heartrate": 81.9,
+            "max_heartrate": 89.0,
+            "segment": {
+                "id": 651389,
+                "resource_state": 2,
+                "name": "Rue de Lausanne",
+                "activity_type": "Ride",
+                "distance": 947.824,
+                "average_grade": 0.2,
+                "maximum_grade": 2.2,
+                "elevation_high": 391.9,
+                "elevation_low": 387.1,
+                "start_latlng": [
+                    46.21869529,
+                    6.14864432
+                ],
+                "end_latlng": [
+                    46.21091509,
+                    6.14396841
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.21869529,
+                "start_longitude": 6.14864432,
+                "end_latitude": 46.21091509,
+                "end_longitude": 6.14396841,
+                "climb_category": 0,
+                "city": "Genève",
+                "state": "Genève",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": true
+        },
+        {
+            "id": 2912433085964546412,
+            "resource_state": 2,
+            "name": "CyclingCols - Pont de la Coulouvrenière",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 43,
+            "moving_time": 43,
+            "start_date": "2022-01-01T16:47:38Z",
+            "start_date_local": "2022-01-01T17:47:38Z",
+            "distance": 217.5,
+            "start_index": 4532,
+            "end_index": 4575,
+            "average_cadence": 25.7,
+            "device_watts": true,
+            "average_watts": 33.7,
+            "average_heartrate": 74.0,
+            "max_heartrate": 81.0,
+            "segment": {
+                "id": 7506669,
+                "resource_state": 2,
+                "name": "CyclingCols - Pont de la Coulouvrenière",
+                "activity_type": "Ride",
+                "distance": 217.5,
+                "average_grade": -1.0,
+                "maximum_grade": 3.7,
+                "elevation_high": 380.1,
+                "elevation_low": 373.5,
+                "start_latlng": [
+                    46.206072,
+                    6.139583
+                ],
+                "end_latlng": [
+                    46.204136,
+                    6.139834
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.206072,
+                "start_longitude": 6.139583,
+                "end_latitude": 46.204136,
+                "end_longitude": 6.139834,
+                "climb_category": 0,
+                "city": "Geneva",
+                "state": "GE",
+                "country": "Switzerland",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": null,
+            "achievements": [],
+            "kom_rank": null,
+            "hidden": false
+        }
+    ],
+    "splits_metric": [
+        {
+            "distance": 1006.2,
+            "elapsed_time": 207,
+            "elevation_difference": 7.0,
+            "moving_time": 207,
+            "split": 1,
+            "average_speed": 4.86,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 96.15121951219513,
+            "pace_zone": 0
+        },
+        {
+            "distance": 995.0,
+            "elapsed_time": 380,
+            "elevation_difference": -1.6,
+            "moving_time": 261,
+            "split": 2,
+            "average_speed": 3.81,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 83.08949416342412,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.3,
+            "elapsed_time": 196,
+            "elevation_difference": -0.2,
+            "moving_time": 196,
+            "split": 3,
+            "average_speed": 5.1,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 90.81122448979592,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1004.8,
+            "elapsed_time": 201,
+            "elevation_difference": 4.8,
+            "moving_time": 194,
+            "split": 4,
+            "average_speed": 5.18,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 94.04712041884817,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.7,
+            "elapsed_time": 166,
+            "elevation_difference": 1.0,
+            "moving_time": 166,
+            "split": 5,
+            "average_speed": 5.99,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.7710843373494,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1004.6,
+            "elapsed_time": 172,
+            "elevation_difference": -1.6,
+            "moving_time": 172,
+            "split": 6,
+            "average_speed": 5.84,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 85.08720930232558,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.9,
+            "elapsed_time": 161,
+            "elevation_difference": -0.8,
+            "moving_time": 161,
+            "split": 7,
+            "average_speed": 6.2,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 91.95031055900621,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.9,
+            "elapsed_time": 196,
+            "elevation_difference": 5.2,
+            "moving_time": 196,
+            "split": 8,
+            "average_speed": 5.1,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.58673469387755,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.9,
+            "elapsed_time": 353,
+            "elevation_difference": 38.6,
+            "moving_time": 353,
+            "split": 9,
+            "average_speed": 2.82,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 97.05099150141643,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1004.0,
+            "elapsed_time": 211,
+            "elevation_difference": 1.6,
+            "moving_time": 211,
+            "split": 10,
+            "average_speed": 4.76,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.69194312796209,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.1,
+            "elapsed_time": 257,
+            "elevation_difference": 8.8,
+            "moving_time": 222,
+            "split": 11,
+            "average_speed": 4.49,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 92.57476635514018,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.0,
+            "elapsed_time": 288,
+            "elevation_difference": 7.2,
+            "moving_time": 213,
+            "split": 12,
+            "average_speed": 4.69,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 90.22641509433963,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1001.8,
+            "elapsed_time": 2525,
+            "elevation_difference": -1.4,
+            "moving_time": 223,
+            "split": 13,
+            "average_speed": 4.49,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 93.36651583710407,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.5,
+            "elapsed_time": 186,
+            "elevation_difference": -5.2,
+            "moving_time": 173,
+            "split": 14,
+            "average_speed": 5.77,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 86.62209302325581,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.9,
+            "elapsed_time": 148,
+            "elevation_difference": -9.0,
+            "moving_time": 148,
+            "split": 15,
+            "average_speed": 6.78,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.54729729729729,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.0,
+            "elapsed_time": 153,
+            "elevation_difference": -7.0,
+            "moving_time": 153,
+            "split": 16,
+            "average_speed": 6.54,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 96.80392156862744,
+            "pace_zone": 0
+        },
+        {
+            "distance": 995.5,
+            "elapsed_time": 133,
+            "elevation_difference": -36.0,
+            "moving_time": 133,
+            "split": 17,
+            "average_speed": 7.48,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 95.3206106870229,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.9,
+            "elapsed_time": 157,
+            "elevation_difference": -1.0,
+            "moving_time": 157,
+            "split": 18,
+            "average_speed": 6.39,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 93.01273885350318,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.0,
+            "elapsed_time": 203,
+            "elevation_difference": 0.6,
+            "moving_time": 172,
+            "split": 19,
+            "average_speed": 5.79,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 100.09580838323353,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1004.6,
+            "elapsed_time": 176,
+            "elevation_difference": 0.4,
+            "moving_time": 170,
+            "split": 20,
+            "average_speed": 5.91,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 94.73214285714286,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.0,
+            "elapsed_time": 162,
+            "elevation_difference": 0.6,
+            "moving_time": 162,
+            "split": 21,
+            "average_speed": 6.17,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.62962962962963,
+            "pace_zone": 0
+        },
+        {
+            "distance": 996.7,
+            "elapsed_time": 229,
+            "elevation_difference": 0.2,
+            "moving_time": 199,
+            "split": 22,
+            "average_speed": 5.01,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 83.5482233502538,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1002.7,
+            "elapsed_time": 535,
+            "elevation_difference": 3.4,
+            "moving_time": 451,
+            "split": 23,
+            "average_speed": 2.22,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 83.01793721973094,
+            "pace_zone": 0
+        },
+        {
+            "distance": 998.7,
+            "elapsed_time": 270,
+            "elevation_difference": -10.4,
+            "moving_time": 204,
+            "split": 24,
+            "average_speed": 4.9,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 76.03980099502488,
+            "pace_zone": 0
+        },
+        {
+            "distance": 326.7,
+            "elapsed_time": 65,
+            "elevation_difference": 0.6,
+            "moving_time": 65,
+            "split": 25,
+            "average_speed": 5.03,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 83.07692307692308,
+            "pace_zone": 0
+        }
+    ],
+    "splits_standard": [
+        {
+            "distance": 1612.0,
+            "elapsed_time": 407,
+            "elevation_difference": 5.0,
+            "moving_time": 370,
+            "split": 1,
+            "average_speed": 4.36,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.14986376021798,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1608.8,
+            "elapsed_time": 448,
+            "elevation_difference": 8.2,
+            "moving_time": 359,
+            "split": 2,
+            "average_speed": 4.48,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 91.86685552407933,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.1,
+            "elapsed_time": 265,
+            "elevation_difference": -3.0,
+            "moving_time": 265,
+            "split": 3,
+            "average_speed": 6.07,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 89.53962264150944,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.2,
+            "elapsed_time": 266,
+            "elevation_difference": -2.0,
+            "moving_time": 266,
+            "split": 4,
+            "average_speed": 6.05,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 87.63157894736842,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.8,
+            "elapsed_time": 304,
+            "elevation_difference": 6.0,
+            "moving_time": 304,
+            "split": 5,
+            "average_speed": 5.29,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 90.76973684210526,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1614.4,
+            "elapsed_time": 505,
+            "elevation_difference": 44.8,
+            "moving_time": 505,
+            "split": 6,
+            "average_speed": 3.2,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 94.81980198019802,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.0,
+            "elapsed_time": 351,
+            "elevation_difference": 2.2,
+            "moving_time": 316,
+            "split": 7,
+            "average_speed": 5.08,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 90.42857142857143,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1608.8,
+            "elapsed_time": 2748,
+            "elevation_difference": 11.0,
+            "moving_time": 371,
+            "split": 8,
+            "average_speed": 4.34,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 94.15217391304348,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1612.1,
+            "elapsed_time": 273,
+            "elevation_difference": -17.0,
+            "moving_time": 260,
+            "split": 9,
+            "average_speed": 6.2,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 85.46718146718146,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1610.4,
+            "elapsed_time": 256,
+            "elevation_difference": -11.6,
+            "moving_time": 256,
+            "split": 10,
+            "average_speed": 6.29,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 94.79527559055119,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.9,
+            "elapsed_time": 217,
+            "elevation_difference": -36.8,
+            "moving_time": 217,
+            "split": 11,
+            "average_speed": 7.41,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 92.95852534562212,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1612.6,
+            "elapsed_time": 313,
+            "elevation_difference": 7.2,
+            "moving_time": 282,
+            "split": 12,
+            "average_speed": 5.72,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 100.42238267148015,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1603.4,
+            "elapsed_time": 259,
+            "elevation_difference": -2.6,
+            "moving_time": 253,
+            "split": 13,
+            "average_speed": 6.34,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 90.40239043824701,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.7,
+            "elapsed_time": 344,
+            "elevation_difference": 1.4,
+            "moving_time": 314,
+            "split": 14,
+            "average_speed": 5.13,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 84.0448717948718,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1609.8,
+            "elapsed_time": 740,
+            "elevation_difference": -7.4,
+            "moving_time": 590,
+            "split": 15,
+            "average_speed": 2.73,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 78.37604456824512,
+            "pace_zone": 0
+        },
+        {
+            "distance": 187.4,
+            "elapsed_time": 34,
+            "elevation_difference": 0.4,
+            "moving_time": 34,
+            "split": 16,
+            "average_speed": 5.51,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 86.11764705882354,
+            "pace_zone": 0
+        }
+    ],
+    "laps": [
+        {
+            "id": 21109660445,
+            "resource_state": 2,
+            "name": "Lap 1",
+            "activity": {
+                "id": 6457305526,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 7727,
+            "moving_time": 4738,
+            "start_date": "2022-01-01T14:42:47Z",
+            "start_date_local": "2022-01-01T15:42:47Z",
+            "distance": 24328.4,
+            "start_index": 0,
+            "end_index": 4723,
+            "total_elevation_gain": 159.0,
+            "average_speed": 5.13,
+            "max_speed": 11.038,
+            "average_cadence": 70.0,
+            "device_watts": true,
+            "average_watts": 74.9,
+            "average_heartrate": 90.3,
+            "max_heartrate": 138.0,
+            "lap_index": 1,
+            "split": 1
+        }
+    ],
+    "gear": {
+        "id": "b8820330",
+        "primary": true,
+        "name": "SWorks Tarmac SL6",
+        "nickname": "SWorks Tarmac SL6",
+        "resource_state": 2,
+        "retired": false,
+        "distance": 12313793,
+        "converted_distance": 12313.8
+    },
+    "photos": {
+        "primary": null,
+        "count": 0
+    },
+    "stats_visibility": [
+        {
+            "type": "heart_rate",
+            "visibility": "everyone"
+        },
+        {
+            "type": "pace",
+            "visibility": "everyone"
+        },
+        {
+            "type": "power",
+            "visibility": "everyone"
+        },
+        {
+            "type": "speed",
+            "visibility": "everyone"
+        },
+        {
+            "type": "calories",
+            "visibility": "everyone"
+        }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Edge 530",
+    "embed_token": "90478c96241e9fde0c894723cb609b8adaf65174",
+    "private_note": null,
+    "available_zones": [
+        "heartrate",
+        "power"
+    ]
+}

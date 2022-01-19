@@ -1,0 +1,435 @@
+{
+    "resource_state": 3,
+    "athlete": {
+        "id": 2374178,
+        "resource_state": 1
+    },
+    "name": "Afternoon Ride",
+    "distance": 7338.4,
+    "moving_time": 1082,
+    "elapsed_time": 1123,
+    "total_elevation_gain": 19.0,
+    "type": "Ride",
+    "workout_type": null,
+    "id": 6320672472,
+    "external_id": "garmin_push_7888895106",
+    "upload_id": 6718073345,
+    "start_date": "2021-11-28T15:15:18Z",
+    "start_date_local": "2021-11-28T16:15:18Z",
+    "timezone": "(GMT+01:00) Europe/Paris",
+    "utc_offset": 3600.0,
+    "location_city": null,
+    "location_state": null,
+    "location_country": "Suisse",
+    "achievement_count": 2,
+    "kudos_count": 3,
+    "comment_count": 0,
+    "athlete_count": 1,
+    "photo_count": 0,
+    "map": {
+        "id": "a6320672472",
+        "polyline": "mqvyGkpre@rKdC~@^zAhA~CtBf@b@x@x@rB|BnBpBhAzA|AdCf@`AhBlE`AnBfDnGvAtBLVRp@\\hB|@~EVhBRp@NZjDxDnBhBxAxAfBrA|BtAtA~@NPJV@\\_@|C@HJJ^RpC~@TBjAB|@PhAb@rCrAJHPd@n@~BlAvGl@lDhAlIx@`FVzAh@hDXzAj@jBf@vAj@lB`AxCj@rCdArEtAbHbBfIPpA\\hAdEdTfF|Zf@~Bd@`CJhA\\~@h@dBdA|Bp@bAfUvZjYh`@|IpL|OhTzAzB`AlBt@fBlF`OlArDxExMH\\Fl@RTHRVb@hA`DjAzCDR",
+        "resource_state": 3,
+        "summary_polyline": "mqvyGkpre@rKdC~@^zAhA~CtBf@b@x@x@rB|BnBpBhAzA|AdCf@`AhBlE`AnBfDnGvAtBLVRp@\\hB|@~EVhBRp@NZjDxDnBhBxAxAfBrA|BtAtA~@NPJV@\\_@|C@HJJ^RpC~@TBjAB|@PhAb@rCrAJHPd@n@~BlAvGl@lDhAlIx@`FVzAh@hDXzAj@jBf@vAj@lB`AxCj@rCdArEtAbHbBfIPpA\\hAdEdTfF|Zf@~Bd@`CJhA\\~@h@dBdA|Bp@bAfUvZjYh`@|IpL|OhTzAzB`AlBt@fBlF`OlArDxExMH\\Fl@RTHRVb@hA`DjAzCDR"
+    },
+    "trainer": false,
+    "commute": false,
+    "manual": false,
+    "private": false,
+    "visibility": "everyone",
+    "flagged": false,
+    "gear_id": "b8820330",
+    "from_accepted_tag": false,
+    "upload_id_str": "6718073345",
+    "start_latlng": [
+        46.32359144277871,
+        6.325980992987752
+    ],
+    "end_latlng": [
+        46.28243185579777,
+        6.2567325588315725
+    ],
+    "start_latitude": 46.32359144277871,
+    "start_longitude": 6.2567325588315725,
+    "average_speed": 6.782,
+    "max_speed": 9.586,
+    "average_cadence": 79.1,
+    "average_temp": 1,
+    "average_watts": 163.6,
+    "max_watts": 316,
+    "weighted_average_watts": 168,
+    "kilojoules": 177.0,
+    "device_watts": true,
+    "has_heartrate": true,
+    "average_heartrate": 126.8,
+    "max_heartrate": 146.0,
+    "heartrate_opt_out": false,
+    "display_hide_heartrate_option": true,
+    "elev_high": 436.0,
+    "elev_low": 420.6,
+    "pr_count": 0,
+    "total_photo_count": 0,
+    "has_kudoed": false,
+    "suffer_score": 7.0,
+    "description": null,
+    "calories": 204.0,
+    "perceived_exertion": null,
+    "prefer_perceived_exertion": null,
+    "segment_efforts": [
+        {
+            "id": 2900333690104804856,
+            "resource_state": 2,
+            "name": "Massongy - Bachelard",
+            "activity": {
+                "id": 6320672472,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 226,
+            "moving_time": 226,
+            "start_date": "2021-11-28T15:16:12Z",
+            "start_date_local": "2021-11-28T16:16:12Z",
+            "distance": 1590.4,
+            "start_index": 53,
+            "end_index": 279,
+            "average_cadence": 85.6,
+            "device_watts": true,
+            "average_watts": 178.5,
+            "average_heartrate": 126.6,
+            "max_heartrate": 129.0,
+            "segment": {
+                "id": 13273370,
+                "resource_state": 2,
+                "name": "Massongy - Bachelard",
+                "activity_type": "Ride",
+                "distance": 1590.4,
+                "average_grade": 0.1,
+                "maximum_grade": 3.3,
+                "elevation_high": 490.0,
+                "elevation_low": 489.0,
+                "start_latlng": [
+                    46.321112,
+                    6.325027
+                ],
+                "end_latlng": [
+                    46.310795,
+                    6.311502
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.321112,
+                "start_longitude": 6.325027,
+                "end_latitude": 46.310795,
+                "end_longitude": 6.311502,
+                "climb_category": 0,
+                "city": "Massongy",
+                "state": "Auvergne-Rhône-Alpes",
+                "country": "France",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 2,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 2
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        },
+        {
+            "id": 2900333690107360760,
+            "resource_state": 2,
+            "name": "Piste de Décollage Suisse.Com @tm",
+            "activity": {
+                "id": 6320672472,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 520,
+            "moving_time": 520,
+            "start_date": "2021-11-28T15:23:17Z",
+            "start_date_local": "2021-11-28T16:23:17Z",
+            "distance": 3790.3,
+            "start_index": 478,
+            "end_index": 998,
+            "average_cadence": 78.8,
+            "device_watts": true,
+            "average_watts": 173.2,
+            "average_heartrate": 130.4,
+            "max_heartrate": 146.0,
+            "segment": {
+                "id": 29307186,
+                "resource_state": 2,
+                "name": "Piste de Décollage Suisse.Com @tm",
+                "activity_type": "Ride",
+                "distance": 3790.3,
+                "average_grade": -0.2,
+                "maximum_grade": 3.4,
+                "elevation_high": 416.4,
+                "elevation_low": 404.6,
+                "start_latlng": [
+                    46.304733,
+                    6.298532
+                ],
+                "end_latlng": [
+                    46.284183,
+                    6.260538
+                ],
+                "elevation_profile": null,
+                "start_latitude": 46.304733,
+                "start_longitude": 6.298532,
+                "end_latitude": 46.284183,
+                "end_longitude": 6.260538,
+                "climb_category": 0,
+                "city": "Douvaine",
+                "state": "Auvergne-Rhône-Alpes",
+                "country": "France",
+                "private": false,
+                "hazardous": false,
+                "starred": false
+            },
+            "pr_rank": 2,
+            "achievements": [
+                {
+                    "type_id": 3,
+                    "type": "pr",
+                    "rank": 2
+                }
+            ],
+            "kom_rank": null,
+            "hidden": false
+        }
+    ],
+    "splits_metric": [
+        {
+            "distance": 1003.6,
+            "elapsed_time": 158,
+            "elevation_difference": 6.0,
+            "moving_time": 158,
+            "split": 1,
+            "average_speed": 6.35,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.73417721518987,
+            "pace_zone": 0
+        },
+        {
+            "distance": 999.6,
+            "elapsed_time": 145,
+            "elevation_difference": 1.8,
+            "moving_time": 145,
+            "split": 2,
+            "average_speed": 6.89,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 125.39310344827587,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.6,
+            "elapsed_time": 152,
+            "elevation_difference": 0.6,
+            "moving_time": 152,
+            "split": 3,
+            "average_speed": 6.6,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.1842105263158,
+            "pace_zone": 0
+        },
+        {
+            "distance": 994.8,
+            "elapsed_time": 117,
+            "elevation_difference": -1.2,
+            "moving_time": 117,
+            "split": 4,
+            "average_speed": 8.5,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 131.05982905982907,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1003.2,
+            "elapsed_time": 134,
+            "elevation_difference": 2.6,
+            "moving_time": 134,
+            "split": 5,
+            "average_speed": 7.49,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 135.8507462686567,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1000.3,
+            "elapsed_time": 150,
+            "elevation_difference": -3.4,
+            "moving_time": 150,
+            "split": 6,
+            "average_speed": 6.67,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 130.88,
+            "pace_zone": 0
+        },
+        {
+            "distance": 997.4,
+            "elapsed_time": 143,
+            "elevation_difference": -5.6,
+            "moving_time": 143,
+            "split": 7,
+            "average_speed": 6.97,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.8951048951049,
+            "pace_zone": 0
+        },
+        {
+            "distance": 339.8,
+            "elapsed_time": 124,
+            "elevation_difference": -0.4,
+            "moving_time": 86,
+            "split": 8,
+            "average_speed": 3.95,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 113.03658536585365,
+            "pace_zone": 0
+        }
+    ],
+    "splits_standard": [
+        {
+            "distance": 1613.5,
+            "elapsed_time": 242,
+            "elevation_difference": 5.4,
+            "moving_time": 242,
+            "split": 1,
+            "average_speed": 6.67,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 126.59504132231405,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1606.0,
+            "elapsed_time": 238,
+            "elevation_difference": 2.4,
+            "moving_time": 238,
+            "split": 2,
+            "average_speed": 6.75,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 123.8655462184874,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1612.2,
+            "elapsed_time": 200,
+            "elevation_difference": 1.2,
+            "moving_time": 200,
+            "split": 3,
+            "average_speed": 8.06,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 133.53,
+            "pace_zone": 0
+        },
+        {
+            "distance": 1608.6,
+            "elapsed_time": 238,
+            "elevation_difference": -6.6,
+            "moving_time": 238,
+            "split": 4,
+            "average_speed": 6.76,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 129.97058823529412,
+            "pace_zone": 0
+        },
+        {
+            "distance": 902.0,
+            "elapsed_time": 205,
+            "elevation_difference": -2.0,
+            "moving_time": 167,
+            "split": 5,
+            "average_speed": 5.4,
+            "average_grade_adjusted_speed": null,
+            "average_heartrate": 118.59509202453988,
+            "pace_zone": 0
+        }
+    ],
+    "laps": [
+        {
+            "id": 20600366989,
+            "resource_state": 2,
+            "name": "Lap 1",
+            "activity": {
+                "id": 6320672472,
+                "resource_state": 1
+            },
+            "athlete": {
+                "id": 2374178,
+                "resource_state": 1
+            },
+            "elapsed_time": 1122,
+            "moving_time": 1084,
+            "start_date": "2021-11-28T15:15:18Z",
+            "start_date_local": "2021-11-28T16:15:18Z",
+            "distance": 7342.34,
+            "start_index": 0,
+            "end_index": 1086,
+            "total_elevation_gain": 18.2,
+            "average_speed": 6.77,
+            "max_speed": 9.586,
+            "average_cadence": 79.1,
+            "device_watts": true,
+            "average_watts": 163.6,
+            "average_heartrate": 126.8,
+            "max_heartrate": 146.0,
+            "lap_index": 1,
+            "split": 1
+        }
+    ],
+    "gear": {
+        "id": "b8820330",
+        "primary": true,
+        "name": "SWorks Tarmac SL6",
+        "nickname": "SWorks Tarmac SL6",
+        "resource_state": 2,
+        "retired": false,
+        "distance": 12313793,
+        "converted_distance": 12313.8
+    },
+    "photos": {
+        "primary": null,
+        "count": 0
+    },
+    "stats_visibility": [
+        {
+            "type": "heart_rate",
+            "visibility": "everyone"
+        },
+        {
+            "type": "pace",
+            "visibility": "everyone"
+        },
+        {
+            "type": "power",
+            "visibility": "everyone"
+        },
+        {
+            "type": "speed",
+            "visibility": "everyone"
+        },
+        {
+            "type": "calories",
+            "visibility": "everyone"
+        }
+    ],
+    "hide_from_home": false,
+    "device_name": "Garmin Edge 530",
+    "embed_token": "8938d09a5a7f1f407046c91f772333dd05ae93ad",
+    "private_note": null,
+    "available_zones": [
+        "heartrate",
+        "power"
+    ]
+}

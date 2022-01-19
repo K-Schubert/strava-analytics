@@ -1,0 +1,10 @@
+{
+    "message": "Authorization Error",
+    "errors": [
+        {
+            "resource": "Application",
+            "field": "",
+            "code": "invalid"
+        }
+    ]
+}
